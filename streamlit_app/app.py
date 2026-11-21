@@ -12,17 +12,48 @@ from app.services.ingest import ingest
 from app.models import Order
 
 st.set_page_config(page_title="Northstar Intelligence",page_icon="N",layout="wide")
-st.markdown("""<style>.stApp{background:#f6f8fb}.block-container{padding-top:2rem;max-width:1400px}.metric-card{background:white;border:1px solid #e7ebf1;border-radius:8px;padding:16px 18px}.metric-label{font-size:12px;color:#778397}.metric-value{font-size:27px;font-weight:700;color:#1d2b43;margin-top:7px}.stMetric{background:white;border:1px solid #e7ebf1;padding:15px;border-radius:8px}.stMetric label{color:#778397}</style>""",unsafe_allow_html=True)
+st.markdown("""
+<style>
+:root { color-scheme: light; }
+.stApp, [data-testid="stAppViewContainer"] { background:#f0f4f9 !important; color:#24344a !important; }
+[data-testid="stHeader"] { background:#ffffff !important; border-bottom:1px solid #e1e7ef; }
+[data-testid="stMain"] .block-container { padding:1.2rem 2.3rem 2.5rem; max-width:1500px; }
+[data-testid="stMain"] h1, [data-testid="stMain"] h2, [data-testid="stMain"] h3,
+[data-testid="stMain"] [data-testid="stMarkdownContainer"] { color:#24344a !important; }
+[data-testid="stMain"] p, [data-testid="stMain"] label, [data-testid="stMain"] [data-testid="stCaptionContainer"] { color:#687a90 !important; }
+[data-testid="stSidebar"] { background:#302017 !important; border-right:1px solid #60442d; }
+[data-testid="stSidebar"] h1, [data-testid="stSidebar"] h2 { color:#e6c15c !important; }
+[data-testid="stSidebar"] p, [data-testid="stSidebar"] label,
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"],
+[data-testid="stSidebar"] [data-testid="stCaptionContainer"] { color:#fff4df !important; }
+[data-testid="stSidebar"] [data-testid="stWidgetLabel"] { color:#e6c15c !important; }
+[data-testid="stMetric"] { background:#ffffff; border:1px solid #e0e6ee; border-radius:10px; padding:15px 17px; box-shadow:0 2px 8px #203d5b08; }
+[data-testid="stMetricLabel"] { color:#68778d !important; }
+[data-testid="stMetricValue"] { color:#1e314a !important; }
+[data-testid="stMetricDelta"] { font-size:12px; }
+[data-testid="stAlert"] { border-radius:9px; }
+[data-testid="stDataFrame"], [data-testid="stTable"] { border:1px solid #e0e6ee; border-radius:9px; overflow:hidden; }
+[data-testid="stFileUploader"] section { background:#ffffff; border:1px dashed #a9bbcc; border-radius:10px; }
+.northstar-topbar { display:flex; justify-content:space-between; align-items:center; padding:11px 16px; margin:0 0 24px; background:#ffffff; border:1px solid #e1e7ef; border-radius:10px; color:#687a90; font-size:13px; }
+.northstar-topbar strong { color:#203149; font-weight:700; }
+.northstar-status { color:#167f84; font-weight:700; }
+.metric-card { background:#ffffff; border:1px solid #e0e6ee; border-radius:9px; padding:16px 18px; }
+div.stButton > button[kind="primary"] { background:#167f84; border-color:#167f84; color:#ffffff; border-radius:7px; }
+div.stButton > button[kind="primary"]:hover { background:#116c72; border-color:#116c72; }
+</style>
+""",unsafe_allow_html=True)
 st.sidebar.title("Northstar")
 st.sidebar.caption("CUSTOMER INTELLIGENCE")
 page=st.sidebar.radio("Workspace",["Dashboard","Customer Analytics","Product Analytics","Sales Analytics","Data Management","Business Insights"])
 st.sidebar.divider()
+st.markdown('<div class="northstar-topbar"><span>Workspace <strong>/</strong> Northstar Intelligence</span><span class="northstar-status">●&nbsp; Customer analytics</span></div>',unsafe_allow_html=True)
 st.sidebar.caption("Database connection")
 try:
     Base.metadata.create_all(bind=engine)
     with engine.connect() as connection:
         connection.exec_driver_sql("SELECT 1")
     st.sidebar.success("Connected")
+    st.sidebar.caption("To share records with the React dashboard, configure the same PostgreSQL DATABASE_URL in Streamlit Cloud Secrets. Otherwise, import the dataset here.")
 except Exception as exc:
     st.sidebar.error("Database unavailable")
     st.error(f"The analytics app could not connect to its database. Configure DATABASE_URL or Streamlit secrets. Details: {exc}")
