@@ -1,0 +1,31 @@
+customer_id,customer_name,city,product_id,product_name,category,order_id,order_date,quantity,unit_price,payment_method,total_amount
+CUST-001,Sample Customer 001,Delhi,PROD-101,Wireless Headphones,Electronics,ORD-1001,2025-01-12,1,2499,Card,2499
+CUST-002,Sample Customer 002,Noida,PROD-102,Running Shoes,Footwear,ORD-1002,2025-01-18,1,3299,UPI,3299
+CUST-003,Sample Customer 003,Ghaziabad,PROD-103,Travel Backpack,Accessories,ORD-1003,2025-02-03,2,1499,Card,2998
+CUST-004,Sample Customer 004,Delhi,PROD-104,Smart Watch,Electronics,ORD-1004,2025-02-14,1,4999,Net Banking,4999
+CUST-005,Sample Customer 005,Meerut,PROD-105,Cotton T-Shirt,Apparel,ORD-1005,2025-02-22,3,699,UPI,2097
+CUST-001,Sample Customer 001,Delhi,PROD-106,Water Bottle,Home & Living,ORD-1006,2025-03-05,2,399,UPI,798
+CUST-006,Sample Customer 006,Jaipur,PROD-107,Bluetooth Speaker,Electronics,ORD-1007,2025-03-11,1,1899,Card,1899
+CUST-007,Sample Customer 007,Lucknow,PROD-108,Desk Lamp,Home & Living,ORD-1008,2025-03-27,1,1199,Cash,1199
+CUST-002,Sample Customer 002,Noida,PROD-109,Yoga Mat,Fitness,ORD-1009,2025-04-02,1,899,UPI,899
+CUST-008,Sample Customer 008,Agra,PROD-110,Leather Wallet,Accessories,ORD-1010,2025-04-16,2,999,Card,1998
+CUST-009,Sample Customer 009,Delhi,PROD-111,Denim Jeans,Apparel,ORD-1011,2025-05-01,1,2199,Net Banking,2199
+CUST-010,Sample Customer 010,Kanpur,PROD-112,Coffee Maker,Home & Living,ORD-1012,2025-05-09,1,2799,Card,2799
+CUST-003,Sample Customer 003,Ghaziabad,PROD-101,Wireless Headphones,Electronics,ORD-1013,2025-05-21,1,2499,UPI,2499
+CUST-011,Sample Customer 011,Noida,PROD-113,Running Jacket,Apparel,ORD-1014,2025-06-04,1,1899,Card,1899
+CUST-012,Sample Customer 012,Jaipur,PROD-114,Resistance Bands,Fitness,ORD-1015,2025-06-19,2,499,UPI,998
+CUST-004,Sample Customer 004,Delhi,PROD-115,Portable Charger,Electronics,ORD-1016,2025-07-03,1,1599,Card,1599
+CUST-005,Sample Customer 005,Meerut,PROD-103,Travel Backpack,Accessories,ORD-1017,2025-07-15,1,1499,Cash,1499
+CUST-013,Sample Customer 013,Agra,PROD-116,Table Organizer,Home & Living,ORD-1018,2025-08-02,2,649,UPI,1298
+CUST-006,Sample Customer 006,Jaipur,PROD-102,Running Shoes,Footwear,ORD-1019,2025-08-17,1,3299,Card,3299
+CUST-014,Sample Customer 014,Lucknow,PROD-117,Classic T-Shirt,Apparel,ORD-1020,2025-09-06,2,799,UPI,1598
+CUST-007,Sample Customer 007,Lucknow,PROD-108,Desk Lamp,Home & Living,ORD-1021,2025-09-22,1,1199,Card,1199
+CUST-008,Sample Customer 008,Agra,PROD-107,Bluetooth Speaker,Electronics,ORD-1022,2025-10-08,1,1899,Net Banking,1899
+CUST-015,Sample Customer 015,Delhi,PROD-118,Training Gloves,Fitness,ORD-1023,2025-10-20,2,599,UPI,1198
+CUST-009,Sample Customer 009,Delhi,PROD-109,Yoga Mat,Fitness,ORD-1024,2025-11-05,1,899,Card,899
+CUST-010,Sample Customer 010,Kanpur,PROD-104,Smart Watch,Electronics,ORD-1025,2025-11-18,1,4999,UPI,4999
+CUST-011,Sample Customer 011,Noida,PROD-119,Everyday Sneakers,Footwear,ORD-1026,2025-12-02,1,2799,Card,2799
+CUST-012,Sample Customer 012,Jaipur,PROD-105,Cotton T-Shirt,Apparel,ORD-1027,2025-12-14,2,699,UPI,1398
+CUST-013,Sample Customer 013,Agra,PROD-115,Portable Charger,Electronics,ORD-1028,2026-01-09,1,1599,Card,1599
+CUST-014,Sample Customer 014,Lucknow,PROD-110,Leather Wallet,Accessories,ORD-1029,2026-01-23,1,999,Cash,999
+CUST-015,Sample Customer 015,Delhi,PROD-112,Coffee Maker,Home & Living,ORD-1030,2026-02-11,1,2799,Net Banking,2799
