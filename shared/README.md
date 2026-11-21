@@ -1,0 +1,1 @@
+Business rules live in `backend/app/analytics/service.py` and ingestion rules in `backend/app/services/ingest.py`. Both FastAPI and Streamlit import these modules so metrics and data cleaning remain consistent.

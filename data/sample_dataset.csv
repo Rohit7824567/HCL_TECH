@@ -1,0 +1,1201 @@
+customer_id,customer_name,city,product_id,product_name,category,order_id,order_date,quantity,unit_price,payment_method
+C0001,Demo Customer 0001,Austin,P007,Travel Organizer,Accessories,DEMO-00001,2025-08-15,1,27,Gift card
+C0137,Demo Customer 0137,Austin,P007,Travel Organizer,Accessories,DEMO-00002,2024-08-29,1,27,PayPal
+C0058,Demo Customer 0058,Boston,P018,Resistance Bands,Fitness,DEMO-00003,2026-04-15,2,22,Bank transfer
+C0163,Demo Customer 0163,Chicago,P011,Running Jacket,Apparel,DEMO-00004,2026-02-22,1,98,Bank transfer
+C0191,Demo Customer 0191,Portland,P017,Cotton Hoodie,Apparel,DEMO-00005,2024-03-22,1,72,PayPal
+C0133,Demo Customer 0133,Seattle,P009,Yoga Mat,Fitness,DEMO-00006,2026-04-03,1,45,Bank transfer
+C0030,Demo Customer 0030,Miami,P013,Smart Watch Band,Electronics,DEMO-00007,2024-10-01,1,26,PayPal
+C0230,Demo Customer 0230,Miami,P015,Insulated Lunch Bag,Outdoor,DEMO-00008,2026-09-12,1,34,Bank transfer
+C0191,Demo Customer 0191,Portland,P007,Travel Organizer,Accessories,DEMO-00009,2024-09-27,1,27,Card
+C0212,Demo Customer 0212,Denver,P017,Cotton Hoodie,Apparel,DEMO-00010,2026-10-31,1,72,PayPal
+C0230,Demo Customer 0230,Miami,P018,Resistance Bands,Fitness,DEMO-00011,2025-06-17,1,22,Gift card
+C0136,Demo Customer 0136,Atlanta,P015,Insulated Lunch Bag,Outdoor,DEMO-00012,2024-11-11,1,34,Card
+C0206,Demo Customer 0206,Miami,P014,Hiking Socks,Outdoor,DEMO-00013,2024-02-24,1,19,Card
+C0225,Demo Customer 0225,Austin,P009,Yoga Mat,Fitness,DEMO-00014,2024-09-04,1,45,Bank transfer
+C0069,Demo Customer 0069,Seattle,P014,Hiking Socks,Outdoor,DEMO-00015,2026-10-21,2,19,Gift card
+C0139,Demo Customer 0139,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00016,2026-03-24,1,89,Gift card
+C0032,Demo Customer 0032,Atlanta,P018,Resistance Bands,Fitness,DEMO-00017,2026-01-02,1,22,PayPal
+C0127,Demo Customer 0127,Portland,P020,Packing Cubes,Accessories,DEMO-00018,2025-08-07,1,31,Bank transfer
+C0231,Demo Customer 0231,Portland,P009,Yoga Mat,Fitness,DEMO-00019,2024-09-27,2,45,Bank transfer
+C0031,Demo Customer 0031,Portland,P010,Canvas Backpack,Accessories,DEMO-00020,2024-08-21,1,76,PayPal
+C0166,Demo Customer 0166,Miami,P019,Storage Basket,Home,DEMO-00021,2026-10-16,1,41,PayPal
+C0237,Demo Customer 0237,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00022,2025-01-29,2,119,Card
+C0092,Demo Customer 0092,Denver,P016,Wireless Charger,Electronics,DEMO-00023,2024-04-20,1,39,Bank transfer
+C0066,Demo Customer 0066,Boston,P010,Canvas Backpack,Accessories,DEMO-00024,2024-08-11,1,76,PayPal
+C0228,Demo Customer 0228,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00025,2024-02-05,1,119,Gift card
+C0137,Demo Customer 0137,Austin,P020,Packing Cubes,Accessories,DEMO-00026,2025-12-08,1,31,PayPal
+C0099,Demo Customer 0099,Chicago,P011,Running Jacket,Apparel,DEMO-00027,2025-05-13,1,98,Bank transfer
+C0009,Demo Customer 0009,Austin,P018,Resistance Bands,Fitness,DEMO-00028,2025-06-28,2,22,Gift card
+C0006,Demo Customer 0006,Miami,P002,Wireless Earbuds,Electronics,DEMO-00029,2026-08-04,1,89,Bank transfer
+C0237,Demo Customer 0237,Seattle,P005,Desk Lamp,Home,DEMO-00030,2025-12-01,2,64,Bank transfer
+C0250,Demo Customer 0250,Boston,P005,Desk Lamp,Home,DEMO-00031,2024-01-20,1,64,Bank transfer
+C0207,Demo Customer 0207,Portland,P013,Smart Watch Band,Electronics,DEMO-00032,2024-01-16,1,26,Card
+C0071,Demo Customer 0071,Portland,P002,Wireless Earbuds,Electronics,DEMO-00033,2024-05-18,1,89,PayPal
+C0221,Demo Customer 0221,Seattle,P011,Running Jacket,Apparel,DEMO-00034,2024-02-17,1,98,Gift card
+C0242,Demo Customer 0242,Boston,P012,Cookware Set,Home,DEMO-00035,2024-12-09,1,145,Gift card
+C0029,Demo Customer 0029,Seattle,P009,Yoga Mat,Fitness,DEMO-00036,2024-10-07,1,45,PayPal
+C0063,Demo Customer 0063,Portland,P011,Running Jacket,Apparel,DEMO-00037,2025-04-27,2,98,Gift card
+C0157,Demo Customer 0157,Seattle,P001,Everyday Tote,Accessories,DEMO-00038,2026-05-10,1,38,Bank transfer
+C0232,Demo Customer 0232,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00039,2026-08-21,1,32,Gift card
+C0022,Demo Customer 0022,Miami,P016,Wireless Charger,Electronics,DEMO-00040,2025-07-22,1,39,Card
+C0132,Demo Customer 0132,Denver,P007,Travel Organizer,Accessories,DEMO-00041,2026-09-21,1,27,Card
+C0061,Demo Customer 0061,Seattle,P017,Cotton Hoodie,Apparel,DEMO-00042,2026-05-01,1,72,Gift card
+C0042,Demo Customer 0042,Boston,P014,Hiking Socks,Outdoor,DEMO-00043,2026-08-11,1,19,PayPal
+C0224,Demo Customer 0224,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00044,2026-01-20,1,26,PayPal
+C0107,Demo Customer 0107,Chicago,P004,Trail Bottle,Outdoor,DEMO-00045,2025-05-16,1,32,Card
+C0156,Demo Customer 0156,Denver,P018,Resistance Bands,Fitness,DEMO-00046,2024-11-13,2,22,Bank transfer
+C0105,Demo Customer 0105,Austin,P011,Running Jacket,Apparel,DEMO-00047,2024-08-19,1,98,Card
+C0069,Demo Customer 0069,Seattle,P019,Storage Basket,Home,DEMO-00048,2026-09-11,1,41,Gift card
+C0192,Demo Customer 0192,Atlanta,P016,Wireless Charger,Electronics,DEMO-00049,2024-03-06,1,39,Gift card
+C0161,Demo Customer 0161,Austin,P014,Hiking Socks,Outdoor,DEMO-00050,2025-04-24,1,19,PayPal
+C0144,Demo Customer 0144,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-00051,2026-05-30,1,119,Bank transfer
+C0201,Demo Customer 0201,Austin,P005,Desk Lamp,Home,DEMO-00052,2024-07-11,1,64,Card
+C0189,Demo Customer 0189,Seattle,P013,Smart Watch Band,Electronics,DEMO-00053,2024-10-16,1,26,Bank transfer
+C0029,Demo Customer 0029,Seattle,P003,Ceramic Mug,Home,DEMO-00054,2024-06-14,1,18,Bank transfer
+C0249,Demo Customer 0249,Austin,P001,Everyday Tote,Accessories,DEMO-00055,2025-10-12,2,38,Gift card
+C0082,Demo Customer 0082,Boston,P005,Desk Lamp,Home,DEMO-00056,2024-10-08,1,64,Bank transfer
+C0140,Demo Customer 0140,Denver,P017,Cotton Hoodie,Apparel,DEMO-00057,2024-05-30,1,72,PayPal
+C0147,Demo Customer 0147,Chicago,P005,Desk Lamp,Home,DEMO-00058,2024-03-09,1,64,PayPal
+C0108,Demo Customer 0108,Denver,P009,Yoga Mat,Fitness,DEMO-00059,2025-07-16,1,45,Gift card
+C0002,Demo Customer 0002,Boston,P010,Canvas Backpack,Accessories,DEMO-00060,2025-10-26,1,76,Bank transfer
+C0085,Demo Customer 0085,Seattle,P003,Ceramic Mug,Home,DEMO-00061,2024-12-10,1,18,Bank transfer
+C0102,Demo Customer 0102,Miami,P019,Storage Basket,Home,DEMO-00062,2025-05-18,1,41,PayPal
+C0020,Demo Customer 0020,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-00063,2025-05-07,1,34,PayPal
+C0153,Demo Customer 0153,Austin,P011,Running Jacket,Apparel,DEMO-00064,2026-03-05,1,98,Gift card
+C0148,Demo Customer 0148,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00065,2026-08-07,1,119,Bank transfer
+C0198,Demo Customer 0198,Miami,P011,Running Jacket,Apparel,DEMO-00066,2024-09-21,2,98,Card
+C0175,Demo Customer 0175,Portland,P001,Everyday Tote,Accessories,DEMO-00067,2026-02-06,1,38,Card
+C0020,Demo Customer 0020,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-00068,2025-12-26,2,34,Bank transfer
+C0240,Demo Customer 0240,Atlanta,P011,Running Jacket,Apparel,DEMO-00069,2024-02-13,1,98,Bank transfer
+C0145,Demo Customer 0145,Austin,P009,Yoga Mat,Fitness,DEMO-00070,2024-05-05,1,45,Gift card
+C0016,Demo Customer 0016,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00071,2026-03-25,1,76,Card
+C0233,Demo Customer 0233,Austin,P018,Resistance Bands,Fitness,DEMO-00072,2026-08-26,1,22,PayPal
+C0090,Demo Customer 0090,Boston,P001,Everyday Tote,Accessories,DEMO-00073,2025-03-09,1,38,Card
+C0064,Demo Customer 0064,Atlanta,P001,Everyday Tote,Accessories,DEMO-00074,2025-01-24,1,38,PayPal
+C0099,Demo Customer 0099,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00075,2024-06-10,1,72,PayPal
+C0049,Demo Customer 0049,Austin,P014,Hiking Socks,Outdoor,DEMO-00076,2024-05-21,1,19,Bank transfer
+C0004,Demo Customer 0004,Denver,P020,Packing Cubes,Accessories,DEMO-00077,2025-06-29,1,31,Gift card
+C0187,Demo Customer 0187,Chicago,P013,Smart Watch Band,Electronics,DEMO-00078,2024-12-05,1,26,PayPal
+C0127,Demo Customer 0127,Portland,P016,Wireless Charger,Electronics,DEMO-00079,2024-09-14,1,39,Gift card
+C0233,Demo Customer 0233,Austin,P009,Yoga Mat,Fitness,DEMO-00080,2024-01-24,1,45,Bank transfer
+C0093,Demo Customer 0093,Seattle,P020,Packing Cubes,Accessories,DEMO-00081,2025-12-03,1,31,Gift card
+C0004,Demo Customer 0004,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00082,2024-04-02,1,119,Bank transfer
+C0232,Demo Customer 0232,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00083,2025-12-06,2,76,PayPal
+C0048,Demo Customer 0048,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-00084,2025-01-15,1,119,Bank transfer
+C0021,Demo Customer 0021,Seattle,P002,Wireless Earbuds,Electronics,DEMO-00085,2024-05-03,1,89,Gift card
+C0022,Demo Customer 0022,Miami,P017,Cotton Hoodie,Apparel,DEMO-00086,2025-05-04,2,72,Card
+C0019,Demo Customer 0019,Chicago,P011,Running Jacket,Apparel,DEMO-00087,2024-04-23,1,98,PayPal
+C0236,Demo Customer 0236,Denver,P013,Smart Watch Band,Electronics,DEMO-00088,2026-09-15,1,26,PayPal
+C0185,Demo Customer 0185,Austin,P007,Travel Organizer,Accessories,DEMO-00089,2024-06-29,1,27,PayPal
+C0215,Demo Customer 0215,Portland,P003,Ceramic Mug,Home,DEMO-00090,2026-02-28,1,18,PayPal
+C0001,Demo Customer 0001,Austin,P007,Travel Organizer,Accessories,DEMO-00091,2026-01-22,1,27,PayPal
+C0070,Demo Customer 0070,Miami,P018,Resistance Bands,Fitness,DEMO-00092,2026-05-26,1,22,PayPal
+C0124,Demo Customer 0124,Denver,P012,Cookware Set,Home,DEMO-00093,2026-06-19,1,145,Gift card
+C0162,Demo Customer 0162,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00094,2024-04-19,2,119,Bank transfer
+C0023,Demo Customer 0023,Portland,P013,Smart Watch Band,Electronics,DEMO-00095,2026-03-10,1,26,Bank transfer
+C0152,Demo Customer 0152,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00096,2026-01-10,1,76,PayPal
+C0183,Demo Customer 0183,Portland,P012,Cookware Set,Home,DEMO-00097,2026-02-14,1,145,Gift card
+C0085,Demo Customer 0085,Seattle,P016,Wireless Charger,Electronics,DEMO-00098,2026-10-05,1,39,Bank transfer
+C0091,Demo Customer 0091,Chicago,P016,Wireless Charger,Electronics,DEMO-00099,2025-02-05,2,39,Card
+C0218,Demo Customer 0218,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00100,2024-04-08,1,119,Gift card
+C0069,Demo Customer 0069,Seattle,P003,Ceramic Mug,Home,DEMO-00101,2024-09-27,1,18,Gift card
+C0089,Demo Customer 0089,Austin,P018,Resistance Bands,Fitness,DEMO-00102,2025-04-05,2,22,PayPal
+C0053,Demo Customer 0053,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00103,2026-03-22,1,119,Bank transfer
+C0042,Demo Customer 0042,Boston,P009,Yoga Mat,Fitness,DEMO-00104,2025-06-13,1,45,Card
+C0249,Demo Customer 0249,Austin,P016,Wireless Charger,Electronics,DEMO-00105,2025-01-19,1,39,Gift card
+C0118,Demo Customer 0118,Miami,P016,Wireless Charger,Electronics,DEMO-00106,2024-04-11,1,39,Card
+C0166,Demo Customer 0166,Miami,P020,Packing Cubes,Accessories,DEMO-00107,2025-02-22,2,31,Bank transfer
+C0156,Demo Customer 0156,Denver,P009,Yoga Mat,Fitness,DEMO-00108,2024-11-16,2,45,PayPal
+C0131,Demo Customer 0131,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00109,2025-07-19,2,89,Bank transfer
+C0114,Demo Customer 0114,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00110,2025-05-25,2,119,PayPal
+C0077,Demo Customer 0077,Seattle,P011,Running Jacket,Apparel,DEMO-00111,2024-07-08,1,98,Gift card
+C0161,Demo Customer 0161,Austin,P011,Running Jacket,Apparel,DEMO-00112,2026-07-18,1,98,Card
+C0224,Demo Customer 0224,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00113,2024-10-04,1,32,PayPal
+C0130,Demo Customer 0130,Boston,P011,Running Jacket,Apparel,DEMO-00114,2024-06-08,1,98,Card
+C0133,Demo Customer 0133,Seattle,P014,Hiking Socks,Outdoor,DEMO-00115,2025-10-28,2,19,Card
+C0145,Demo Customer 0145,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00116,2024-08-18,2,119,Gift card
+C0222,Demo Customer 0222,Miami,P010,Canvas Backpack,Accessories,DEMO-00117,2026-07-03,1,76,Gift card
+C0165,Demo Customer 0165,Seattle,P011,Running Jacket,Apparel,DEMO-00118,2025-12-12,1,98,Card
+C0030,Demo Customer 0030,Miami,P012,Cookware Set,Home,DEMO-00119,2026-06-26,1,145,Card
+C0129,Demo Customer 0129,Austin,P020,Packing Cubes,Accessories,DEMO-00120,2024-05-31,1,31,PayPal
+C0141,Demo Customer 0141,Seattle,P009,Yoga Mat,Fitness,DEMO-00121,2024-09-15,1,45,PayPal
+C0001,Demo Customer 0001,Austin,P009,Yoga Mat,Fitness,DEMO-00122,2025-05-16,1,45,Card
+C0144,Demo Customer 0144,Atlanta,P014,Hiking Socks,Outdoor,DEMO-00123,2025-11-14,1,19,PayPal
+C0149,Demo Customer 0149,Seattle,P003,Ceramic Mug,Home,DEMO-00124,2026-05-20,1,18,PayPal
+C0059,Demo Customer 0059,Chicago,P004,Trail Bottle,Outdoor,DEMO-00125,2026-07-27,1,32,PayPal
+C0168,Demo Customer 0168,Atlanta,P007,Travel Organizer,Accessories,DEMO-00126,2024-11-26,1,27,Card
+C0230,Demo Customer 0230,Miami,P008,Bluetooth Speaker,Electronics,DEMO-00127,2026-05-24,2,119,Bank transfer
+C0217,Demo Customer 0217,Austin,P017,Cotton Hoodie,Apparel,DEMO-00128,2026-07-24,1,72,PayPal
+C0148,Demo Customer 0148,Denver,P013,Smart Watch Band,Electronics,DEMO-00129,2025-11-03,1,26,Bank transfer
+C0177,Demo Customer 0177,Austin,P020,Packing Cubes,Accessories,DEMO-00130,2026-02-13,1,31,Gift card
+C0152,Demo Customer 0152,Atlanta,P018,Resistance Bands,Fitness,DEMO-00131,2024-05-12,2,22,Bank transfer
+C0123,Demo Customer 0123,Chicago,P018,Resistance Bands,Fitness,DEMO-00132,2024-01-09,1,22,Bank transfer
+C0231,Demo Customer 0231,Portland,P001,Everyday Tote,Accessories,DEMO-00133,2026-01-22,1,38,PayPal
+C0219,Demo Customer 0219,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00134,2024-11-15,1,72,Gift card
+C0101,Demo Customer 0101,Seattle,P015,Insulated Lunch Bag,Outdoor,DEMO-00135,2025-01-13,1,34,Gift card
+C0241,Demo Customer 0241,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00136,2024-06-10,1,119,Bank transfer
+C0203,Demo Customer 0203,Chicago,P007,Travel Organizer,Accessories,DEMO-00137,2025-11-25,1,27,Gift card
+C0062,Demo Customer 0062,Miami,P014,Hiking Socks,Outdoor,DEMO-00138,2026-03-14,1,19,PayPal
+C0102,Demo Customer 0102,Miami,P013,Smart Watch Band,Electronics,DEMO-00139,2024-07-07,1,26,PayPal
+C0098,Demo Customer 0098,Boston,P009,Yoga Mat,Fitness,DEMO-00140,2025-08-05,2,45,Card
+C0122,Demo Customer 0122,Boston,P019,Storage Basket,Home,DEMO-00141,2024-03-08,1,41,PayPal
+C0233,Demo Customer 0233,Austin,P013,Smart Watch Band,Electronics,DEMO-00142,2026-09-13,2,26,Bank transfer
+C0155,Demo Customer 0155,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-00143,2025-03-17,1,34,Bank transfer
+C0085,Demo Customer 0085,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00144,2025-04-13,1,119,PayPal
+C0051,Demo Customer 0051,Chicago,P018,Resistance Bands,Fitness,DEMO-00145,2024-12-25,2,22,PayPal
+C0138,Demo Customer 0138,Boston,P020,Packing Cubes,Accessories,DEMO-00146,2026-10-30,2,31,Bank transfer
+C0143,Demo Customer 0143,Portland,P018,Resistance Bands,Fitness,DEMO-00147,2025-02-22,2,22,Card
+C0083,Demo Customer 0083,Chicago,P010,Canvas Backpack,Accessories,DEMO-00148,2026-04-10,1,76,Card
+C0121,Demo Customer 0121,Austin,P019,Storage Basket,Home,DEMO-00149,2025-04-23,1,41,PayPal
+C0032,Demo Customer 0032,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00150,2026-08-24,1,32,Card
+C0038,Demo Customer 0038,Miami,P011,Running Jacket,Apparel,DEMO-00151,2024-04-13,1,98,Bank transfer
+C0059,Demo Customer 0059,Chicago,P001,Everyday Tote,Accessories,DEMO-00152,2024-04-29,1,38,PayPal
+C0061,Demo Customer 0061,Seattle,P018,Resistance Bands,Fitness,DEMO-00153,2026-05-14,1,22,Bank transfer
+C0071,Demo Customer 0071,Portland,P020,Packing Cubes,Accessories,DEMO-00154,2024-05-12,1,31,Bank transfer
+C0058,Demo Customer 0058,Boston,P001,Everyday Tote,Accessories,DEMO-00155,2024-07-02,1,38,Bank transfer
+C0184,Demo Customer 0184,Atlanta,P014,Hiking Socks,Outdoor,DEMO-00156,2025-11-07,1,19,PayPal
+C0183,Demo Customer 0183,Portland,P017,Cotton Hoodie,Apparel,DEMO-00157,2024-07-17,1,72,Bank transfer
+C0002,Demo Customer 0002,Boston,P010,Canvas Backpack,Accessories,DEMO-00158,2025-03-17,2,76,Card
+C0105,Demo Customer 0105,Austin,P009,Yoga Mat,Fitness,DEMO-00159,2025-02-02,1,45,PayPal
+C0149,Demo Customer 0149,Seattle,P017,Cotton Hoodie,Apparel,DEMO-00160,2026-02-01,3,72,PayPal
+C0157,Demo Customer 0157,Seattle,P002,Wireless Earbuds,Electronics,DEMO-00161,2025-01-20,1,89,Bank transfer
+C0008,Demo Customer 0008,Atlanta,P017,Cotton Hoodie,Apparel,DEMO-00162,2026-05-08,1,72,Bank transfer
+C0114,Demo Customer 0114,Boston,P004,Trail Bottle,Outdoor,DEMO-00163,2026-08-02,2,32,Gift card
+C0072,Demo Customer 0072,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00164,2025-06-26,1,26,Bank transfer
+C0002,Demo Customer 0002,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00165,2024-08-18,1,119,PayPal
+C0089,Demo Customer 0089,Austin,P001,Everyday Tote,Accessories,DEMO-00166,2025-09-15,1,38,Card
+C0078,Demo Customer 0078,Miami,P008,Bluetooth Speaker,Electronics,DEMO-00167,2024-02-18,2,119,Gift card
+C0232,Demo Customer 0232,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-00168,2024-03-07,1,119,Card
+C0235,Demo Customer 0235,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00169,2025-09-04,2,89,Bank transfer
+C0036,Demo Customer 0036,Denver,P003,Ceramic Mug,Home,DEMO-00170,2025-06-01,1,18,Bank transfer
+C0146,Demo Customer 0146,Boston,P014,Hiking Socks,Outdoor,DEMO-00171,2025-09-16,1,19,PayPal
+C0047,Demo Customer 0047,Portland,P007,Travel Organizer,Accessories,DEMO-00172,2025-12-17,1,27,Card
+C0094,Demo Customer 0094,Miami,P019,Storage Basket,Home,DEMO-00173,2026-04-12,2,41,PayPal
+C0164,Demo Customer 0164,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-00174,2024-10-29,1,34,Bank transfer
+C0087,Demo Customer 0087,Portland,P014,Hiking Socks,Outdoor,DEMO-00175,2024-09-02,1,19,Gift card
+C0100,Demo Customer 0100,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00176,2025-12-08,1,119,PayPal
+C0189,Demo Customer 0189,Seattle,P014,Hiking Socks,Outdoor,DEMO-00177,2026-05-23,1,19,Card
+C0115,Demo Customer 0115,Chicago,P011,Running Jacket,Apparel,DEMO-00178,2025-11-30,2,98,PayPal
+C0205,Demo Customer 0205,Seattle,P009,Yoga Mat,Fitness,DEMO-00179,2025-06-14,2,45,Gift card
+C0134,Demo Customer 0134,Miami,P002,Wireless Earbuds,Electronics,DEMO-00180,2024-01-17,2,89,Bank transfer
+C0139,Demo Customer 0139,Chicago,P005,Desk Lamp,Home,DEMO-00181,2024-07-27,1,64,Card
+C0001,Demo Customer 0001,Austin,P013,Smart Watch Band,Electronics,DEMO-00182,2025-02-07,2,26,PayPal
+C0213,Demo Customer 0213,Seattle,P005,Desk Lamp,Home,DEMO-00183,2024-02-28,2,64,Gift card
+C0147,Demo Customer 0147,Chicago,P012,Cookware Set,Home,DEMO-00184,2024-05-16,1,145,PayPal
+C0076,Demo Customer 0076,Denver,P009,Yoga Mat,Fitness,DEMO-00185,2024-06-27,1,45,PayPal
+C0191,Demo Customer 0191,Portland,P015,Insulated Lunch Bag,Outdoor,DEMO-00186,2025-03-21,1,34,Gift card
+C0178,Demo Customer 0178,Boston,P003,Ceramic Mug,Home,DEMO-00187,2026-08-26,2,18,PayPal
+C0066,Demo Customer 0066,Boston,P018,Resistance Bands,Fitness,DEMO-00188,2026-05-07,2,22,Gift card
+C0039,Demo Customer 0039,Portland,P020,Packing Cubes,Accessories,DEMO-00189,2025-03-04,1,31,Card
+C0161,Demo Customer 0161,Austin,P012,Cookware Set,Home,DEMO-00190,2025-07-17,1,145,PayPal
+C0086,Demo Customer 0086,Miami,P013,Smart Watch Band,Electronics,DEMO-00191,2024-02-25,1,26,Card
+C0006,Demo Customer 0006,Miami,P002,Wireless Earbuds,Electronics,DEMO-00192,2026-06-02,1,89,PayPal
+C0238,Demo Customer 0238,Miami,P011,Running Jacket,Apparel,DEMO-00193,2025-08-21,2,98,PayPal
+C0193,Demo Customer 0193,Austin,P006,Linen Shirt,Apparel,DEMO-00194,2025-12-22,1,58,Gift card
+C0216,Demo Customer 0216,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-00195,2024-01-03,1,119,Card
+C0161,Demo Customer 0161,Austin,P006,Linen Shirt,Apparel,DEMO-00196,2026-09-23,2,58,Bank transfer
+C0083,Demo Customer 0083,Chicago,P020,Packing Cubes,Accessories,DEMO-00197,2026-06-19,2,31,Gift card
+C0107,Demo Customer 0107,Chicago,P011,Running Jacket,Apparel,DEMO-00198,2026-01-09,1,98,PayPal
+C0047,Demo Customer 0047,Portland,P007,Travel Organizer,Accessories,DEMO-00199,2025-09-13,1,27,PayPal
+C0150,Demo Customer 0150,Miami,P017,Cotton Hoodie,Apparel,DEMO-00200,2024-07-31,2,72,PayPal
+C0062,Demo Customer 0062,Miami,P007,Travel Organizer,Accessories,DEMO-00201,2026-06-25,1,27,Card
+C0066,Demo Customer 0066,Boston,P018,Resistance Bands,Fitness,DEMO-00202,2025-06-06,1,22,Bank transfer
+C0145,Demo Customer 0145,Austin,P004,Trail Bottle,Outdoor,DEMO-00203,2026-01-16,1,32,Bank transfer
+C0041,Demo Customer 0041,Austin,P011,Running Jacket,Apparel,DEMO-00204,2025-08-19,1,98,Gift card
+C0095,Demo Customer 0095,Portland,P009,Yoga Mat,Fitness,DEMO-00205,2025-05-31,1,45,Bank transfer
+C0115,Demo Customer 0115,Chicago,P016,Wireless Charger,Electronics,DEMO-00206,2024-09-22,1,39,Gift card
+C0178,Demo Customer 0178,Boston,P001,Everyday Tote,Accessories,DEMO-00207,2024-09-27,1,38,Bank transfer
+C0124,Demo Customer 0124,Denver,P007,Travel Organizer,Accessories,DEMO-00208,2025-01-08,1,27,Card
+C0078,Demo Customer 0078,Miami,P005,Desk Lamp,Home,DEMO-00209,2026-02-14,2,64,Card
+C0221,Demo Customer 0221,Seattle,P014,Hiking Socks,Outdoor,DEMO-00210,2026-09-16,1,19,Card
+C0068,Demo Customer 0068,Denver,P001,Everyday Tote,Accessories,DEMO-00211,2024-09-02,1,38,Card
+C0071,Demo Customer 0071,Portland,P001,Everyday Tote,Accessories,DEMO-00212,2026-07-13,2,38,Card
+C0228,Demo Customer 0228,Denver,P006,Linen Shirt,Apparel,DEMO-00213,2025-12-21,1,58,Card
+C0225,Demo Customer 0225,Austin,P004,Trail Bottle,Outdoor,DEMO-00214,2026-10-27,2,32,Bank transfer
+C0227,Demo Customer 0227,Chicago,P005,Desk Lamp,Home,DEMO-00215,2024-10-25,1,64,Card
+C0014,Demo Customer 0014,Miami,P001,Everyday Tote,Accessories,DEMO-00216,2024-09-17,2,38,Gift card
+C0222,Demo Customer 0222,Miami,P006,Linen Shirt,Apparel,DEMO-00217,2024-02-23,1,58,Card
+C0043,Demo Customer 0043,Chicago,P012,Cookware Set,Home,DEMO-00218,2024-04-21,1,145,Card
+C0136,Demo Customer 0136,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00219,2024-06-07,1,76,PayPal
+C0131,Demo Customer 0131,Chicago,P006,Linen Shirt,Apparel,DEMO-00220,2026-09-08,2,58,Gift card
+C0011,Demo Customer 0011,Chicago,P007,Travel Organizer,Accessories,DEMO-00221,2025-02-06,1,27,Gift card
+C0179,Demo Customer 0179,Chicago,P020,Packing Cubes,Accessories,DEMO-00222,2025-09-26,1,31,Card
+C0235,Demo Customer 0235,Chicago,P001,Everyday Tote,Accessories,DEMO-00223,2025-10-27,1,38,Gift card
+C0004,Demo Customer 0004,Denver,P016,Wireless Charger,Electronics,DEMO-00224,2025-04-24,2,39,Gift card
+C0047,Demo Customer 0047,Portland,P003,Ceramic Mug,Home,DEMO-00225,2025-12-11,2,18,PayPal
+C0050,Demo Customer 0050,Boston,P019,Storage Basket,Home,DEMO-00226,2025-05-02,1,41,Bank transfer
+C0238,Demo Customer 0238,Miami,P009,Yoga Mat,Fitness,DEMO-00227,2024-02-09,1,45,Bank transfer
+C0098,Demo Customer 0098,Boston,P014,Hiking Socks,Outdoor,DEMO-00228,2025-08-11,1,19,Gift card
+C0163,Demo Customer 0163,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00229,2025-04-15,1,72,Card
+C0058,Demo Customer 0058,Boston,P006,Linen Shirt,Apparel,DEMO-00230,2026-07-16,2,58,Card
+C0087,Demo Customer 0087,Portland,P011,Running Jacket,Apparel,DEMO-00231,2026-05-05,1,98,Card
+C0169,Demo Customer 0169,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00232,2025-12-06,1,119,Card
+C0142,Demo Customer 0142,Miami,P013,Smart Watch Band,Electronics,DEMO-00233,2026-08-17,1,26,Gift card
+C0218,Demo Customer 0218,Boston,P017,Cotton Hoodie,Apparel,DEMO-00234,2024-04-27,1,72,Gift card
+C0024,Demo Customer 0024,Atlanta,P005,Desk Lamp,Home,DEMO-00235,2025-04-26,1,64,Bank transfer
+C0007,Demo Customer 0007,Portland,P008,Bluetooth Speaker,Electronics,DEMO-00236,2025-08-08,1,119,PayPal
+C0107,Demo Customer 0107,Chicago,P016,Wireless Charger,Electronics,DEMO-00237,2026-06-07,1,39,Card
+C0188,Demo Customer 0188,Denver,P013,Smart Watch Band,Electronics,DEMO-00238,2025-08-20,2,26,Gift card
+C0195,Demo Customer 0195,Chicago,P012,Cookware Set,Home,DEMO-00239,2024-12-18,1,145,Gift card
+C0199,Demo Customer 0199,Portland,P015,Insulated Lunch Bag,Outdoor,DEMO-00240,2024-09-13,1,34,Gift card
+C0206,Demo Customer 0206,Miami,P016,Wireless Charger,Electronics,DEMO-00241,2025-11-12,2,39,Bank transfer
+C0215,Demo Customer 0215,Portland,P012,Cookware Set,Home,DEMO-00242,2026-08-22,1,145,Card
+C0187,Demo Customer 0187,Chicago,P011,Running Jacket,Apparel,DEMO-00243,2024-06-29,1,98,Gift card
+C0188,Demo Customer 0188,Denver,P004,Trail Bottle,Outdoor,DEMO-00244,2026-02-01,3,32,Bank transfer
+C0233,Demo Customer 0233,Austin,P017,Cotton Hoodie,Apparel,DEMO-00245,2025-07-15,1,72,Card
+C0145,Demo Customer 0145,Austin,P014,Hiking Socks,Outdoor,DEMO-00246,2025-06-25,1,19,Gift card
+C0004,Demo Customer 0004,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-00247,2026-10-16,1,34,Gift card
+C0176,Demo Customer 0176,Atlanta,P001,Everyday Tote,Accessories,DEMO-00248,2025-09-18,1,38,Bank transfer
+C0237,Demo Customer 0237,Seattle,P013,Smart Watch Band,Electronics,DEMO-00249,2026-08-16,1,26,Gift card
+C0085,Demo Customer 0085,Seattle,P010,Canvas Backpack,Accessories,DEMO-00250,2026-10-31,1,76,PayPal
+C0089,Demo Customer 0089,Austin,P016,Wireless Charger,Electronics,DEMO-00251,2026-11-15,1,39,Gift card
+C0164,Demo Customer 0164,Denver,P017,Cotton Hoodie,Apparel,DEMO-00252,2024-05-15,1,72,Bank transfer
+C0136,Demo Customer 0136,Atlanta,P018,Resistance Bands,Fitness,DEMO-00253,2026-07-01,1,22,PayPal
+C0022,Demo Customer 0022,Miami,P004,Trail Bottle,Outdoor,DEMO-00254,2025-12-25,1,32,PayPal
+C0104,Demo Customer 0104,Atlanta,P012,Cookware Set,Home,DEMO-00255,2025-05-26,1,145,Bank transfer
+C0185,Demo Customer 0185,Austin,P004,Trail Bottle,Outdoor,DEMO-00256,2024-08-13,3,32,Bank transfer
+C0081,Demo Customer 0081,Austin,P017,Cotton Hoodie,Apparel,DEMO-00257,2025-07-17,2,72,PayPal
+C0021,Demo Customer 0021,Seattle,P013,Smart Watch Band,Electronics,DEMO-00258,2025-09-10,1,26,Card
+C0205,Demo Customer 0205,Seattle,P002,Wireless Earbuds,Electronics,DEMO-00259,2026-01-21,1,89,Card
+C0091,Demo Customer 0091,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00260,2026-06-18,1,89,Bank transfer
+C0241,Demo Customer 0241,Austin,P015,Insulated Lunch Bag,Outdoor,DEMO-00261,2025-02-25,1,34,Bank transfer
+C0217,Demo Customer 0217,Austin,P002,Wireless Earbuds,Electronics,DEMO-00262,2024-02-14,1,89,Gift card
+C0191,Demo Customer 0191,Portland,P004,Trail Bottle,Outdoor,DEMO-00263,2026-02-25,1,32,Gift card
+C0112,Demo Customer 0112,Atlanta,P001,Everyday Tote,Accessories,DEMO-00264,2024-02-05,1,38,Bank transfer
+C0054,Demo Customer 0054,Miami,P013,Smart Watch Band,Electronics,DEMO-00265,2024-08-03,1,26,Gift card
+C0200,Demo Customer 0200,Atlanta,P001,Everyday Tote,Accessories,DEMO-00266,2025-06-17,2,38,Card
+C0149,Demo Customer 0149,Seattle,P002,Wireless Earbuds,Electronics,DEMO-00267,2024-11-25,1,89,Gift card
+C0030,Demo Customer 0030,Miami,P002,Wireless Earbuds,Electronics,DEMO-00268,2025-06-16,1,89,PayPal
+C0180,Demo Customer 0180,Denver,P009,Yoga Mat,Fitness,DEMO-00269,2024-02-10,1,45,Bank transfer
+C0148,Demo Customer 0148,Denver,P010,Canvas Backpack,Accessories,DEMO-00270,2024-11-30,1,76,Gift card
+C0203,Demo Customer 0203,Chicago,P016,Wireless Charger,Electronics,DEMO-00271,2025-06-28,1,39,PayPal
+C0241,Demo Customer 0241,Austin,P018,Resistance Bands,Fitness,DEMO-00272,2026-03-18,1,22,PayPal
+C0130,Demo Customer 0130,Boston,P013,Smart Watch Band,Electronics,DEMO-00273,2025-04-14,1,26,Gift card
+C0186,Demo Customer 0186,Boston,P020,Packing Cubes,Accessories,DEMO-00274,2026-03-28,1,31,Bank transfer
+C0201,Demo Customer 0201,Austin,P013,Smart Watch Band,Electronics,DEMO-00275,2024-11-06,1,26,Gift card
+C0162,Demo Customer 0162,Boston,P019,Storage Basket,Home,DEMO-00276,2024-04-09,1,41,Card
+C0187,Demo Customer 0187,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-00277,2026-06-01,1,34,PayPal
+C0108,Demo Customer 0108,Denver,P014,Hiking Socks,Outdoor,DEMO-00278,2026-08-22,1,19,Gift card
+C0210,Demo Customer 0210,Boston,P018,Resistance Bands,Fitness,DEMO-00279,2025-09-01,1,22,Gift card
+C0125,Demo Customer 0125,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00280,2025-05-26,2,119,Bank transfer
+C0062,Demo Customer 0062,Miami,P009,Yoga Mat,Fitness,DEMO-00281,2026-04-19,1,45,Bank transfer
+C0085,Demo Customer 0085,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00282,2024-08-21,1,119,Gift card
+C0194,Demo Customer 0194,Boston,P003,Ceramic Mug,Home,DEMO-00283,2024-02-01,1,18,PayPal
+C0205,Demo Customer 0205,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00284,2025-06-07,1,119,Bank transfer
+C0133,Demo Customer 0133,Seattle,P017,Cotton Hoodie,Apparel,DEMO-00285,2026-01-26,2,72,Card
+C0205,Demo Customer 0205,Seattle,P005,Desk Lamp,Home,DEMO-00286,2024-12-01,2,64,Gift card
+C0134,Demo Customer 0134,Miami,P015,Insulated Lunch Bag,Outdoor,DEMO-00287,2024-08-13,1,34,Gift card
+C0030,Demo Customer 0030,Miami,P020,Packing Cubes,Accessories,DEMO-00288,2026-09-21,2,31,Card
+C0141,Demo Customer 0141,Seattle,P018,Resistance Bands,Fitness,DEMO-00289,2026-03-13,2,22,Bank transfer
+C0199,Demo Customer 0199,Portland,P012,Cookware Set,Home,DEMO-00290,2026-07-02,1,145,PayPal
+C0236,Demo Customer 0236,Denver,P004,Trail Bottle,Outdoor,DEMO-00291,2024-05-04,2,32,Card
+C0041,Demo Customer 0041,Austin,P013,Smart Watch Band,Electronics,DEMO-00292,2026-02-20,2,26,Gift card
+C0067,Demo Customer 0067,Chicago,P020,Packing Cubes,Accessories,DEMO-00293,2026-03-03,1,31,Bank transfer
+C0051,Demo Customer 0051,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00294,2024-09-23,1,89,Card
+C0249,Demo Customer 0249,Austin,P013,Smart Watch Band,Electronics,DEMO-00295,2025-09-25,1,26,Bank transfer
+C0202,Demo Customer 0202,Boston,P001,Everyday Tote,Accessories,DEMO-00296,2026-09-12,1,38,Bank transfer
+C0220,Demo Customer 0220,Denver,P012,Cookware Set,Home,DEMO-00297,2024-10-04,1,145,Gift card
+C0106,Demo Customer 0106,Boston,P009,Yoga Mat,Fitness,DEMO-00298,2025-08-09,1,45,Gift card
+C0069,Demo Customer 0069,Seattle,P019,Storage Basket,Home,DEMO-00299,2026-02-14,1,41,Card
+C0191,Demo Customer 0191,Portland,P014,Hiking Socks,Outdoor,DEMO-00300,2024-09-23,1,19,Bank transfer
+C0245,Demo Customer 0245,Seattle,P018,Resistance Bands,Fitness,DEMO-00301,2024-09-15,1,22,PayPal
+C0191,Demo Customer 0191,Portland,P006,Linen Shirt,Apparel,DEMO-00302,2026-06-07,2,58,Bank transfer
+C0058,Demo Customer 0058,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00303,2024-01-14,1,119,Card
+C0042,Demo Customer 0042,Boston,P015,Insulated Lunch Bag,Outdoor,DEMO-00304,2025-12-22,1,34,Bank transfer
+C0022,Demo Customer 0022,Miami,P013,Smart Watch Band,Electronics,DEMO-00305,2025-05-23,1,26,Gift card
+C0035,Demo Customer 0035,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00306,2024-06-13,2,89,Gift card
+C0021,Demo Customer 0021,Seattle,P005,Desk Lamp,Home,DEMO-00307,2026-08-30,1,64,PayPal
+C0240,Demo Customer 0240,Atlanta,P002,Wireless Earbuds,Electronics,DEMO-00308,2025-05-05,2,89,Bank transfer
+C0069,Demo Customer 0069,Seattle,P015,Insulated Lunch Bag,Outdoor,DEMO-00309,2024-03-15,2,34,Card
+C0022,Demo Customer 0022,Miami,P008,Bluetooth Speaker,Electronics,DEMO-00310,2024-06-20,1,119,Gift card
+C0117,Demo Customer 0117,Seattle,P017,Cotton Hoodie,Apparel,DEMO-00311,2026-06-30,2,72,Card
+C0220,Demo Customer 0220,Denver,P007,Travel Organizer,Accessories,DEMO-00312,2026-09-17,2,27,Gift card
+C0156,Demo Customer 0156,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00313,2026-07-09,1,119,Gift card
+C0063,Demo Customer 0063,Portland,P002,Wireless Earbuds,Electronics,DEMO-00314,2024-06-28,1,89,Gift card
+C0027,Demo Customer 0027,Chicago,P013,Smart Watch Band,Electronics,DEMO-00315,2026-05-13,1,26,Bank transfer
+C0107,Demo Customer 0107,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00316,2024-07-14,1,72,Bank transfer
+C0056,Demo Customer 0056,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00317,2026-01-01,2,32,Gift card
+C0158,Demo Customer 0158,Miami,P018,Resistance Bands,Fitness,DEMO-00318,2025-06-13,2,22,Gift card
+C0042,Demo Customer 0042,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00319,2024-11-30,1,119,PayPal
+C0039,Demo Customer 0039,Portland,P008,Bluetooth Speaker,Electronics,DEMO-00320,2025-03-23,2,119,Card
+C0152,Demo Customer 0152,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00321,2026-08-09,1,32,Card
+C0006,Demo Customer 0006,Miami,P009,Yoga Mat,Fitness,DEMO-00322,2024-05-04,1,45,Card
+C0141,Demo Customer 0141,Seattle,P007,Travel Organizer,Accessories,DEMO-00323,2026-08-19,2,27,Bank transfer
+C0097,Demo Customer 0097,Austin,P019,Storage Basket,Home,DEMO-00324,2024-06-27,1,41,Gift card
+C0123,Demo Customer 0123,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00325,2024-10-18,2,72,PayPal
+C0150,Demo Customer 0150,Miami,P016,Wireless Charger,Electronics,DEMO-00326,2026-05-02,1,39,PayPal
+C0108,Demo Customer 0108,Denver,P004,Trail Bottle,Outdoor,DEMO-00327,2026-04-23,1,32,Card
+C0010,Demo Customer 0010,Boston,P001,Everyday Tote,Accessories,DEMO-00328,2025-07-21,1,38,Gift card
+C0238,Demo Customer 0238,Miami,P006,Linen Shirt,Apparel,DEMO-00329,2024-01-15,1,58,Card
+C0094,Demo Customer 0094,Miami,P017,Cotton Hoodie,Apparel,DEMO-00330,2026-01-30,1,72,PayPal
+C0246,Demo Customer 0246,Miami,P002,Wireless Earbuds,Electronics,DEMO-00331,2024-09-05,1,89,Gift card
+C0204,Demo Customer 0204,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00332,2024-02-05,1,119,Gift card
+C0199,Demo Customer 0199,Portland,P015,Insulated Lunch Bag,Outdoor,DEMO-00333,2026-09-02,1,34,PayPal
+C0159,Demo Customer 0159,Portland,P001,Everyday Tote,Accessories,DEMO-00334,2025-02-21,2,38,Card
+C0124,Demo Customer 0124,Denver,P005,Desk Lamp,Home,DEMO-00335,2026-09-09,1,64,Card
+C0077,Demo Customer 0077,Seattle,P018,Resistance Bands,Fitness,DEMO-00336,2025-04-10,1,22,PayPal
+C0135,Demo Customer 0135,Portland,P002,Wireless Earbuds,Electronics,DEMO-00337,2026-05-08,1,89,Bank transfer
+C0156,Demo Customer 0156,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00338,2024-03-01,1,119,Gift card
+C0105,Demo Customer 0105,Austin,P004,Trail Bottle,Outdoor,DEMO-00339,2026-03-28,1,32,Bank transfer
+C0139,Demo Customer 0139,Chicago,P004,Trail Bottle,Outdoor,DEMO-00340,2026-05-14,1,32,Gift card
+C0231,Demo Customer 0231,Portland,P001,Everyday Tote,Accessories,DEMO-00341,2026-09-03,2,38,Bank transfer
+C0170,Demo Customer 0170,Boston,P017,Cotton Hoodie,Apparel,DEMO-00342,2025-04-21,1,72,Gift card
+C0001,Demo Customer 0001,Austin,P015,Insulated Lunch Bag,Outdoor,DEMO-00343,2026-08-27,1,34,Card
+C0101,Demo Customer 0101,Seattle,P019,Storage Basket,Home,DEMO-00344,2026-01-27,1,41,Gift card
+C0145,Demo Customer 0145,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00345,2024-08-01,1,119,Gift card
+C0061,Demo Customer 0061,Seattle,P010,Canvas Backpack,Accessories,DEMO-00346,2024-12-31,1,76,PayPal
+C0002,Demo Customer 0002,Boston,P012,Cookware Set,Home,DEMO-00347,2025-07-18,1,145,PayPal
+C0200,Demo Customer 0200,Atlanta,P009,Yoga Mat,Fitness,DEMO-00348,2024-09-04,1,45,Bank transfer
+C0206,Demo Customer 0206,Miami,P020,Packing Cubes,Accessories,DEMO-00349,2024-10-31,1,31,Card
+C0023,Demo Customer 0023,Portland,P005,Desk Lamp,Home,DEMO-00350,2025-11-29,1,64,Card
+C0194,Demo Customer 0194,Boston,P015,Insulated Lunch Bag,Outdoor,DEMO-00351,2024-10-08,1,34,Bank transfer
+C0045,Demo Customer 0045,Seattle,P019,Storage Basket,Home,DEMO-00352,2026-07-27,1,41,PayPal
+C0099,Demo Customer 0099,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00353,2026-08-31,1,72,PayPal
+C0122,Demo Customer 0122,Boston,P004,Trail Bottle,Outdoor,DEMO-00354,2026-10-27,1,32,Card
+C0139,Demo Customer 0139,Chicago,P004,Trail Bottle,Outdoor,DEMO-00355,2026-03-29,1,32,Bank transfer
+C0210,Demo Customer 0210,Boston,P020,Packing Cubes,Accessories,DEMO-00356,2025-12-08,1,31,Card
+C0022,Demo Customer 0022,Miami,P016,Wireless Charger,Electronics,DEMO-00357,2026-01-04,1,39,PayPal
+C0065,Demo Customer 0065,Austin,P018,Resistance Bands,Fitness,DEMO-00358,2024-01-25,1,22,Bank transfer
+C0184,Demo Customer 0184,Atlanta,P015,Insulated Lunch Bag,Outdoor,DEMO-00359,2025-05-22,2,34,PayPal
+C0211,Demo Customer 0211,Chicago,P012,Cookware Set,Home,DEMO-00360,2025-09-17,1,145,Card
+C0119,Demo Customer 0119,Portland,P012,Cookware Set,Home,DEMO-00361,2024-03-27,1,145,Gift card
+C0099,Demo Customer 0099,Chicago,P003,Ceramic Mug,Home,DEMO-00362,2024-11-09,1,18,PayPal
+C0061,Demo Customer 0061,Seattle,P013,Smart Watch Band,Electronics,DEMO-00363,2024-11-22,1,26,Gift card
+C0014,Demo Customer 0014,Miami,P007,Travel Organizer,Accessories,DEMO-00364,2025-01-18,1,27,Gift card
+C0129,Demo Customer 0129,Austin,P002,Wireless Earbuds,Electronics,DEMO-00365,2025-04-22,1,89,PayPal
+C0098,Demo Customer 0098,Boston,P001,Everyday Tote,Accessories,DEMO-00366,2026-04-17,2,38,Bank transfer
+C0216,Demo Customer 0216,Atlanta,P006,Linen Shirt,Apparel,DEMO-00367,2025-09-01,1,58,Card
+C0131,Demo Customer 0131,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00368,2024-02-29,1,72,PayPal
+C0147,Demo Customer 0147,Chicago,P005,Desk Lamp,Home,DEMO-00369,2026-03-25,2,64,PayPal
+C0061,Demo Customer 0061,Seattle,P007,Travel Organizer,Accessories,DEMO-00370,2024-09-30,1,27,PayPal
+C0235,Demo Customer 0235,Chicago,P020,Packing Cubes,Accessories,DEMO-00371,2025-03-20,1,31,Gift card
+C0170,Demo Customer 0170,Boston,P014,Hiking Socks,Outdoor,DEMO-00372,2025-09-27,1,19,Card
+C0107,Demo Customer 0107,Chicago,P003,Ceramic Mug,Home,DEMO-00373,2025-07-12,1,18,Card
+C0039,Demo Customer 0039,Portland,P013,Smart Watch Band,Electronics,DEMO-00374,2026-07-19,2,26,Gift card
+C0188,Demo Customer 0188,Denver,P016,Wireless Charger,Electronics,DEMO-00375,2026-08-24,1,39,PayPal
+C0175,Demo Customer 0175,Portland,P019,Storage Basket,Home,DEMO-00376,2024-01-12,1,41,Bank transfer
+C0001,Demo Customer 0001,Austin,P018,Resistance Bands,Fitness,DEMO-00377,2025-05-10,2,22,Bank transfer
+C0193,Demo Customer 0193,Austin,P015,Insulated Lunch Bag,Outdoor,DEMO-00378,2025-10-20,1,34,PayPal
+C0056,Demo Customer 0056,Atlanta,P017,Cotton Hoodie,Apparel,DEMO-00379,2025-02-24,1,72,Card
+C0028,Demo Customer 0028,Denver,P014,Hiking Socks,Outdoor,DEMO-00380,2025-01-29,1,19,Bank transfer
+C0003,Demo Customer 0003,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00381,2024-01-06,2,89,Card
+C0083,Demo Customer 0083,Chicago,P012,Cookware Set,Home,DEMO-00382,2026-06-08,1,145,Gift card
+C0194,Demo Customer 0194,Boston,P004,Trail Bottle,Outdoor,DEMO-00383,2026-02-19,2,32,Bank transfer
+C0138,Demo Customer 0138,Boston,P015,Insulated Lunch Bag,Outdoor,DEMO-00384,2025-06-13,1,34,Card
+C0169,Demo Customer 0169,Austin,P004,Trail Bottle,Outdoor,DEMO-00385,2025-09-30,1,32,Gift card
+C0160,Demo Customer 0160,Atlanta,P003,Ceramic Mug,Home,DEMO-00386,2026-08-21,1,18,PayPal
+C0145,Demo Customer 0145,Austin,P006,Linen Shirt,Apparel,DEMO-00387,2024-10-17,1,58,Gift card
+C0072,Demo Customer 0072,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00388,2024-01-09,1,32,PayPal
+C0218,Demo Customer 0218,Boston,P003,Ceramic Mug,Home,DEMO-00389,2026-07-27,1,18,PayPal
+C0140,Demo Customer 0140,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-00390,2025-07-29,1,34,Bank transfer
+C0130,Demo Customer 0130,Boston,P007,Travel Organizer,Accessories,DEMO-00391,2026-02-08,1,27,PayPal
+C0134,Demo Customer 0134,Miami,P016,Wireless Charger,Electronics,DEMO-00392,2024-02-21,1,39,Gift card
+C0135,Demo Customer 0135,Portland,P005,Desk Lamp,Home,DEMO-00393,2024-07-14,1,64,Card
+C0201,Demo Customer 0201,Austin,P005,Desk Lamp,Home,DEMO-00394,2025-06-07,2,64,Bank transfer
+C0137,Demo Customer 0137,Austin,P006,Linen Shirt,Apparel,DEMO-00395,2024-12-21,1,58,Bank transfer
+C0049,Demo Customer 0049,Austin,P005,Desk Lamp,Home,DEMO-00396,2026-03-28,1,64,Gift card
+C0097,Demo Customer 0097,Austin,P019,Storage Basket,Home,DEMO-00397,2024-03-02,1,41,Bank transfer
+C0197,Demo Customer 0197,Seattle,P011,Running Jacket,Apparel,DEMO-00398,2024-03-12,1,98,PayPal
+C0059,Demo Customer 0059,Chicago,P001,Everyday Tote,Accessories,DEMO-00399,2024-10-05,2,38,Card
+C0090,Demo Customer 0090,Boston,P004,Trail Bottle,Outdoor,DEMO-00400,2024-03-20,1,32,Card
+C0035,Demo Customer 0035,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-00401,2026-01-05,1,34,Bank transfer
+C0192,Demo Customer 0192,Atlanta,P015,Insulated Lunch Bag,Outdoor,DEMO-00402,2026-04-28,1,34,Gift card
+C0182,Demo Customer 0182,Miami,P019,Storage Basket,Home,DEMO-00403,2025-11-30,1,41,PayPal
+C0225,Demo Customer 0225,Austin,P002,Wireless Earbuds,Electronics,DEMO-00404,2026-07-31,1,89,PayPal
+C0093,Demo Customer 0093,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00405,2024-02-12,1,119,Bank transfer
+C0249,Demo Customer 0249,Austin,P017,Cotton Hoodie,Apparel,DEMO-00406,2026-03-30,1,72,Card
+C0145,Demo Customer 0145,Austin,P005,Desk Lamp,Home,DEMO-00407,2024-09-22,1,64,Card
+C0216,Demo Customer 0216,Atlanta,P011,Running Jacket,Apparel,DEMO-00408,2026-10-25,2,98,Card
+C0213,Demo Customer 0213,Seattle,P011,Running Jacket,Apparel,DEMO-00409,2024-06-07,1,98,Gift card
+C0191,Demo Customer 0191,Portland,P006,Linen Shirt,Apparel,DEMO-00410,2024-12-13,2,58,Bank transfer
+C0054,Demo Customer 0054,Miami,P012,Cookware Set,Home,DEMO-00411,2024-08-27,1,145,PayPal
+C0107,Demo Customer 0107,Chicago,P016,Wireless Charger,Electronics,DEMO-00412,2026-02-21,1,39,Card
+C0089,Demo Customer 0089,Austin,P006,Linen Shirt,Apparel,DEMO-00413,2024-03-13,2,58,Bank transfer
+C0250,Demo Customer 0250,Boston,P013,Smart Watch Band,Electronics,DEMO-00414,2025-11-09,1,26,Card
+C0069,Demo Customer 0069,Seattle,P011,Running Jacket,Apparel,DEMO-00415,2026-04-19,1,98,Bank transfer
+C0070,Demo Customer 0070,Miami,P017,Cotton Hoodie,Apparel,DEMO-00416,2026-05-13,1,72,Card
+C0026,Demo Customer 0026,Boston,P004,Trail Bottle,Outdoor,DEMO-00417,2025-05-06,2,32,Bank transfer
+C0063,Demo Customer 0063,Portland,P010,Canvas Backpack,Accessories,DEMO-00418,2025-06-17,1,76,Bank transfer
+C0148,Demo Customer 0148,Denver,P005,Desk Lamp,Home,DEMO-00419,2026-01-11,1,64,Gift card
+C0097,Demo Customer 0097,Austin,P017,Cotton Hoodie,Apparel,DEMO-00420,2024-09-06,1,72,PayPal
+C0216,Demo Customer 0216,Atlanta,P012,Cookware Set,Home,DEMO-00421,2026-07-13,1,145,Bank transfer
+C0009,Demo Customer 0009,Austin,P007,Travel Organizer,Accessories,DEMO-00422,2026-01-09,1,27,Bank transfer
+C0218,Demo Customer 0218,Boston,P011,Running Jacket,Apparel,DEMO-00423,2025-05-03,1,98,Bank transfer
+C0038,Demo Customer 0038,Miami,P001,Everyday Tote,Accessories,DEMO-00424,2024-03-18,1,38,Bank transfer
+C0151,Demo Customer 0151,Portland,P013,Smart Watch Band,Electronics,DEMO-00425,2025-04-16,2,26,Card
+C0211,Demo Customer 0211,Chicago,P018,Resistance Bands,Fitness,DEMO-00426,2024-08-18,2,22,Gift card
+C0017,Demo Customer 0017,Austin,P012,Cookware Set,Home,DEMO-00427,2024-03-18,1,145,Bank transfer
+C0069,Demo Customer 0069,Seattle,P019,Storage Basket,Home,DEMO-00428,2025-07-19,1,41,Card
+C0194,Demo Customer 0194,Boston,P001,Everyday Tote,Accessories,DEMO-00429,2025-01-15,1,38,PayPal
+C0161,Demo Customer 0161,Austin,P009,Yoga Mat,Fitness,DEMO-00430,2026-05-26,1,45,Card
+C0232,Demo Customer 0232,Atlanta,P003,Ceramic Mug,Home,DEMO-00431,2024-01-14,1,18,Gift card
+C0193,Demo Customer 0193,Austin,P013,Smart Watch Band,Electronics,DEMO-00432,2026-06-19,2,26,PayPal
+C0124,Demo Customer 0124,Denver,P014,Hiking Socks,Outdoor,DEMO-00433,2025-12-03,1,19,Bank transfer
+C0146,Demo Customer 0146,Boston,P005,Desk Lamp,Home,DEMO-00434,2025-06-01,1,64,Gift card
+C0059,Demo Customer 0059,Chicago,P005,Desk Lamp,Home,DEMO-00435,2025-12-18,2,64,Gift card
+C0172,Demo Customer 0172,Denver,P011,Running Jacket,Apparel,DEMO-00436,2025-07-16,1,98,Gift card
+C0246,Demo Customer 0246,Miami,P005,Desk Lamp,Home,DEMO-00437,2025-10-18,1,64,Gift card
+C0244,Demo Customer 0244,Denver,P017,Cotton Hoodie,Apparel,DEMO-00438,2026-04-13,3,72,PayPal
+C0042,Demo Customer 0042,Boston,P001,Everyday Tote,Accessories,DEMO-00439,2024-10-19,1,38,Gift card
+C0021,Demo Customer 0021,Seattle,P005,Desk Lamp,Home,DEMO-00440,2025-10-31,1,64,Bank transfer
+C0092,Demo Customer 0092,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00441,2026-03-12,1,119,Bank transfer
+C0140,Demo Customer 0140,Denver,P001,Everyday Tote,Accessories,DEMO-00442,2026-06-25,1,38,Card
+C0107,Demo Customer 0107,Chicago,P009,Yoga Mat,Fitness,DEMO-00443,2025-02-11,2,45,Gift card
+C0232,Demo Customer 0232,Atlanta,P019,Storage Basket,Home,DEMO-00444,2026-07-10,1,41,Bank transfer
+C0148,Demo Customer 0148,Denver,P020,Packing Cubes,Accessories,DEMO-00445,2024-11-16,1,31,Card
+C0027,Demo Customer 0027,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-00446,2026-08-30,2,34,Bank transfer
+C0088,Demo Customer 0088,Atlanta,P014,Hiking Socks,Outdoor,DEMO-00447,2026-09-04,1,19,Bank transfer
+C0197,Demo Customer 0197,Seattle,P011,Running Jacket,Apparel,DEMO-00448,2024-06-28,1,98,Bank transfer
+C0024,Demo Customer 0024,Atlanta,P012,Cookware Set,Home,DEMO-00449,2026-09-01,1,145,PayPal
+C0109,Demo Customer 0109,Seattle,P011,Running Jacket,Apparel,DEMO-00450,2025-05-26,1,98,PayPal
+C0230,Demo Customer 0230,Miami,P017,Cotton Hoodie,Apparel,DEMO-00451,2026-02-13,1,72,Gift card
+C0138,Demo Customer 0138,Boston,P004,Trail Bottle,Outdoor,DEMO-00452,2026-09-17,1,32,Gift card
+C0207,Demo Customer 0207,Portland,P007,Travel Organizer,Accessories,DEMO-00453,2025-05-03,1,27,PayPal
+C0071,Demo Customer 0071,Portland,P011,Running Jacket,Apparel,DEMO-00454,2025-11-06,3,98,PayPal
+C0225,Demo Customer 0225,Austin,P005,Desk Lamp,Home,DEMO-00455,2026-02-08,1,64,Card
+C0084,Demo Customer 0084,Denver,P003,Ceramic Mug,Home,DEMO-00456,2026-08-05,2,18,Gift card
+C0020,Demo Customer 0020,Denver,P014,Hiking Socks,Outdoor,DEMO-00457,2025-11-04,1,19,PayPal
+C0167,Demo Customer 0167,Portland,P010,Canvas Backpack,Accessories,DEMO-00458,2024-08-24,2,76,Bank transfer
+C0202,Demo Customer 0202,Boston,P002,Wireless Earbuds,Electronics,DEMO-00459,2025-10-27,1,89,Gift card
+C0035,Demo Customer 0035,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-00460,2024-12-23,1,34,Card
+C0159,Demo Customer 0159,Portland,P015,Insulated Lunch Bag,Outdoor,DEMO-00461,2026-01-05,1,34,PayPal
+C0136,Demo Customer 0136,Atlanta,P018,Resistance Bands,Fitness,DEMO-00462,2024-09-01,2,22,Card
+C0160,Demo Customer 0160,Atlanta,P005,Desk Lamp,Home,DEMO-00463,2026-05-21,1,64,PayPal
+C0104,Demo Customer 0104,Atlanta,P012,Cookware Set,Home,DEMO-00464,2025-01-10,1,145,Gift card
+C0227,Demo Customer 0227,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00465,2025-08-27,1,89,Card
+C0158,Demo Customer 0158,Miami,P018,Resistance Bands,Fitness,DEMO-00466,2024-01-30,2,22,Card
+C0156,Demo Customer 0156,Denver,P004,Trail Bottle,Outdoor,DEMO-00467,2024-06-29,2,32,Gift card
+C0070,Demo Customer 0070,Miami,P005,Desk Lamp,Home,DEMO-00468,2024-08-16,2,64,Card
+C0234,Demo Customer 0234,Boston,P014,Hiking Socks,Outdoor,DEMO-00469,2026-02-11,1,19,Card
+C0120,Demo Customer 0120,Atlanta,P005,Desk Lamp,Home,DEMO-00470,2026-06-16,1,64,PayPal
+C0131,Demo Customer 0131,Chicago,P006,Linen Shirt,Apparel,DEMO-00471,2026-06-18,2,58,PayPal
+C0117,Demo Customer 0117,Seattle,P011,Running Jacket,Apparel,DEMO-00472,2024-05-01,1,98,Gift card
+C0108,Demo Customer 0108,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-00473,2024-06-13,2,34,Card
+C0145,Demo Customer 0145,Austin,P009,Yoga Mat,Fitness,DEMO-00474,2024-12-20,1,45,PayPal
+C0050,Demo Customer 0050,Boston,P003,Ceramic Mug,Home,DEMO-00475,2025-11-01,1,18,PayPal
+C0106,Demo Customer 0106,Boston,P018,Resistance Bands,Fitness,DEMO-00476,2025-05-28,1,22,Gift card
+C0213,Demo Customer 0213,Seattle,P019,Storage Basket,Home,DEMO-00477,2024-07-24,1,41,PayPal
+C0003,Demo Customer 0003,Chicago,P012,Cookware Set,Home,DEMO-00478,2025-11-18,1,145,PayPal
+C0182,Demo Customer 0182,Miami,P005,Desk Lamp,Home,DEMO-00479,2024-01-22,1,64,Card
+C0128,Demo Customer 0128,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00480,2024-02-28,1,76,Bank transfer
+C0024,Demo Customer 0024,Atlanta,P014,Hiking Socks,Outdoor,DEMO-00481,2024-09-16,1,19,Bank transfer
+C0102,Demo Customer 0102,Miami,P002,Wireless Earbuds,Electronics,DEMO-00482,2026-01-26,1,89,Bank transfer
+C0078,Demo Customer 0078,Miami,P018,Resistance Bands,Fitness,DEMO-00483,2024-04-26,2,22,PayPal
+C0102,Demo Customer 0102,Miami,P020,Packing Cubes,Accessories,DEMO-00484,2024-02-15,1,31,PayPal
+C0042,Demo Customer 0042,Boston,P004,Trail Bottle,Outdoor,DEMO-00485,2024-02-11,1,32,Gift card
+C0043,Demo Customer 0043,Chicago,P016,Wireless Charger,Electronics,DEMO-00486,2026-05-13,1,39,Card
+C0018,Demo Customer 0018,Boston,P014,Hiking Socks,Outdoor,DEMO-00487,2024-10-05,1,19,Bank transfer
+C0176,Demo Customer 0176,Atlanta,P017,Cotton Hoodie,Apparel,DEMO-00488,2026-01-31,2,72,Gift card
+C0203,Demo Customer 0203,Chicago,P004,Trail Bottle,Outdoor,DEMO-00489,2026-11-06,1,32,Card
+C0194,Demo Customer 0194,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00490,2024-03-03,1,119,Gift card
+C0247,Demo Customer 0247,Portland,P014,Hiking Socks,Outdoor,DEMO-00491,2026-01-01,1,19,Card
+C0129,Demo Customer 0129,Austin,P004,Trail Bottle,Outdoor,DEMO-00492,2026-05-16,1,32,Bank transfer
+C0111,Demo Customer 0111,Portland,P007,Travel Organizer,Accessories,DEMO-00493,2026-05-15,1,27,PayPal
+C0208,Demo Customer 0208,Atlanta,P005,Desk Lamp,Home,DEMO-00494,2024-03-12,2,64,Card
+C0021,Demo Customer 0021,Seattle,P004,Trail Bottle,Outdoor,DEMO-00495,2025-08-11,1,32,Bank transfer
+C0238,Demo Customer 0238,Miami,P006,Linen Shirt,Apparel,DEMO-00496,2024-07-12,1,58,Gift card
+C0146,Demo Customer 0146,Boston,P017,Cotton Hoodie,Apparel,DEMO-00497,2025-08-23,1,72,Card
+C0131,Demo Customer 0131,Chicago,P012,Cookware Set,Home,DEMO-00498,2024-07-24,1,145,PayPal
+C0030,Demo Customer 0030,Miami,P016,Wireless Charger,Electronics,DEMO-00499,2025-05-21,1,39,Gift card
+C0198,Demo Customer 0198,Miami,P004,Trail Bottle,Outdoor,DEMO-00500,2025-03-25,1,32,Card
+C0104,Demo Customer 0104,Atlanta,P014,Hiking Socks,Outdoor,DEMO-00501,2026-02-26,1,19,Bank transfer
+C0037,Demo Customer 0037,Seattle,P002,Wireless Earbuds,Electronics,DEMO-00502,2025-10-14,1,89,Card
+C0120,Demo Customer 0120,Atlanta,P001,Everyday Tote,Accessories,DEMO-00503,2024-12-10,1,38,Card
+C0088,Demo Customer 0088,Atlanta,P006,Linen Shirt,Apparel,DEMO-00504,2025-05-22,1,58,Card
+C0171,Demo Customer 0171,Chicago,P019,Storage Basket,Home,DEMO-00505,2025-01-17,1,41,Gift card
+C0213,Demo Customer 0213,Seattle,P001,Everyday Tote,Accessories,DEMO-00506,2024-04-26,1,38,PayPal
+C0021,Demo Customer 0021,Seattle,P004,Trail Bottle,Outdoor,DEMO-00507,2026-01-01,1,32,Bank transfer
+C0027,Demo Customer 0027,Chicago,P001,Everyday Tote,Accessories,DEMO-00508,2026-04-21,1,38,Bank transfer
+C0169,Demo Customer 0169,Austin,P015,Insulated Lunch Bag,Outdoor,DEMO-00509,2025-04-25,1,34,Gift card
+C0026,Demo Customer 0026,Boston,P015,Insulated Lunch Bag,Outdoor,DEMO-00510,2024-12-15,1,34,Gift card
+C0006,Demo Customer 0006,Miami,P020,Packing Cubes,Accessories,DEMO-00511,2024-03-29,1,31,Card
+C0088,Demo Customer 0088,Atlanta,P014,Hiking Socks,Outdoor,DEMO-00512,2026-10-29,2,19,Bank transfer
+C0116,Demo Customer 0116,Denver,P020,Packing Cubes,Accessories,DEMO-00513,2024-05-25,1,31,Gift card
+C0008,Demo Customer 0008,Atlanta,P006,Linen Shirt,Apparel,DEMO-00514,2026-01-10,1,58,Gift card
+C0017,Demo Customer 0017,Austin,P020,Packing Cubes,Accessories,DEMO-00515,2024-07-23,1,31,PayPal
+C0019,Demo Customer 0019,Chicago,P001,Everyday Tote,Accessories,DEMO-00516,2024-04-11,1,38,Bank transfer
+C0048,Demo Customer 0048,Atlanta,P007,Travel Organizer,Accessories,DEMO-00517,2026-09-20,1,27,PayPal
+C0167,Demo Customer 0167,Portland,P001,Everyday Tote,Accessories,DEMO-00518,2026-09-13,1,38,Gift card
+C0018,Demo Customer 0018,Boston,P013,Smart Watch Band,Electronics,DEMO-00519,2025-05-10,1,26,Bank transfer
+C0058,Demo Customer 0058,Boston,P005,Desk Lamp,Home,DEMO-00520,2025-08-18,1,64,Gift card
+C0132,Demo Customer 0132,Denver,P011,Running Jacket,Apparel,DEMO-00521,2026-02-05,1,98,PayPal
+C0020,Demo Customer 0020,Denver,P002,Wireless Earbuds,Electronics,DEMO-00522,2024-02-18,1,89,PayPal
+C0006,Demo Customer 0006,Miami,P017,Cotton Hoodie,Apparel,DEMO-00523,2025-01-30,1,72,PayPal
+C0044,Demo Customer 0044,Denver,P016,Wireless Charger,Electronics,DEMO-00524,2026-09-16,1,39,Bank transfer
+C0210,Demo Customer 0210,Boston,P002,Wireless Earbuds,Electronics,DEMO-00525,2024-01-18,1,89,PayPal
+C0015,Demo Customer 0015,Portland,P014,Hiking Socks,Outdoor,DEMO-00526,2026-10-30,2,19,Gift card
+C0187,Demo Customer 0187,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00527,2025-08-21,2,72,Card
+C0153,Demo Customer 0153,Austin,P014,Hiking Socks,Outdoor,DEMO-00528,2024-08-18,1,19,Bank transfer
+C0206,Demo Customer 0206,Miami,P003,Ceramic Mug,Home,DEMO-00529,2025-09-10,1,18,PayPal
+C0002,Demo Customer 0002,Boston,P014,Hiking Socks,Outdoor,DEMO-00530,2025-11-27,1,19,Bank transfer
+C0112,Demo Customer 0112,Atlanta,P002,Wireless Earbuds,Electronics,DEMO-00531,2025-11-05,2,89,Bank transfer
+C0020,Demo Customer 0020,Denver,P013,Smart Watch Band,Electronics,DEMO-00532,2026-04-27,1,26,Card
+C0120,Demo Customer 0120,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00533,2024-08-28,2,26,Bank transfer
+C0017,Demo Customer 0017,Austin,P011,Running Jacket,Apparel,DEMO-00534,2025-05-31,1,98,Gift card
+C0056,Demo Customer 0056,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-00535,2024-05-16,1,119,Card
+C0094,Demo Customer 0094,Miami,P004,Trail Bottle,Outdoor,DEMO-00536,2025-09-26,1,32,PayPal
+C0035,Demo Customer 0035,Chicago,P019,Storage Basket,Home,DEMO-00537,2026-02-17,1,41,Bank transfer
+C0245,Demo Customer 0245,Seattle,P015,Insulated Lunch Bag,Outdoor,DEMO-00538,2025-01-14,1,34,Card
+C0036,Demo Customer 0036,Denver,P005,Desk Lamp,Home,DEMO-00539,2026-11-05,1,64,Gift card
+C0180,Demo Customer 0180,Denver,P003,Ceramic Mug,Home,DEMO-00540,2026-03-19,2,18,Gift card
+C0158,Demo Customer 0158,Miami,P008,Bluetooth Speaker,Electronics,DEMO-00541,2024-04-05,1,119,Gift card
+C0095,Demo Customer 0095,Portland,P003,Ceramic Mug,Home,DEMO-00542,2025-10-03,1,18,Gift card
+C0164,Demo Customer 0164,Denver,P011,Running Jacket,Apparel,DEMO-00543,2026-07-08,1,98,Card
+C0213,Demo Customer 0213,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00544,2026-01-18,1,119,Bank transfer
+C0246,Demo Customer 0246,Miami,P001,Everyday Tote,Accessories,DEMO-00545,2025-03-21,1,38,Gift card
+C0092,Demo Customer 0092,Denver,P009,Yoga Mat,Fitness,DEMO-00546,2025-08-14,1,45,Bank transfer
+C0139,Demo Customer 0139,Chicago,P008,Bluetooth Speaker,Electronics,DEMO-00547,2025-06-30,2,119,PayPal
+C0040,Demo Customer 0040,Atlanta,P012,Cookware Set,Home,DEMO-00548,2024-07-15,1,145,Card
+C0020,Demo Customer 0020,Denver,P004,Trail Bottle,Outdoor,DEMO-00549,2026-07-12,1,32,Card
+C0161,Demo Customer 0161,Austin,P020,Packing Cubes,Accessories,DEMO-00550,2024-05-22,1,31,Card
+C0009,Demo Customer 0009,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00551,2025-05-28,1,119,Gift card
+C0239,Demo Customer 0239,Portland,P008,Bluetooth Speaker,Electronics,DEMO-00552,2024-08-11,1,119,Bank transfer
+C0147,Demo Customer 0147,Chicago,P006,Linen Shirt,Apparel,DEMO-00553,2026-02-13,1,58,Bank transfer
+C0165,Demo Customer 0165,Seattle,P004,Trail Bottle,Outdoor,DEMO-00554,2024-09-06,2,32,PayPal
+C0136,Demo Customer 0136,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-00555,2026-05-01,1,119,Gift card
+C0076,Demo Customer 0076,Denver,P013,Smart Watch Band,Electronics,DEMO-00556,2026-10-06,1,26,Card
+C0243,Demo Customer 0243,Chicago,P020,Packing Cubes,Accessories,DEMO-00557,2026-07-24,2,31,Gift card
+C0143,Demo Customer 0143,Portland,P013,Smart Watch Band,Electronics,DEMO-00558,2025-10-26,2,26,PayPal
+C0055,Demo Customer 0055,Portland,P012,Cookware Set,Home,DEMO-00559,2026-03-10,1,145,Card
+C0228,Demo Customer 0228,Denver,P014,Hiking Socks,Outdoor,DEMO-00560,2024-01-05,2,19,Bank transfer
+C0050,Demo Customer 0050,Boston,P020,Packing Cubes,Accessories,DEMO-00561,2024-02-27,1,31,Gift card
+C0183,Demo Customer 0183,Portland,P015,Insulated Lunch Bag,Outdoor,DEMO-00562,2025-03-26,1,34,Gift card
+C0138,Demo Customer 0138,Boston,P013,Smart Watch Band,Electronics,DEMO-00563,2025-01-08,1,26,Card
+C0003,Demo Customer 0003,Chicago,P012,Cookware Set,Home,DEMO-00564,2026-10-30,1,145,Bank transfer
+C0136,Demo Customer 0136,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00565,2024-12-12,2,26,PayPal
+C0224,Demo Customer 0224,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00566,2024-06-15,1,26,PayPal
+C0147,Demo Customer 0147,Chicago,P020,Packing Cubes,Accessories,DEMO-00567,2026-07-08,2,31,Gift card
+C0161,Demo Customer 0161,Austin,P006,Linen Shirt,Apparel,DEMO-00568,2025-07-05,1,58,PayPal
+C0237,Demo Customer 0237,Seattle,P006,Linen Shirt,Apparel,DEMO-00569,2024-07-08,1,58,PayPal
+C0199,Demo Customer 0199,Portland,P016,Wireless Charger,Electronics,DEMO-00570,2024-06-26,1,39,Bank transfer
+C0160,Demo Customer 0160,Atlanta,P020,Packing Cubes,Accessories,DEMO-00571,2026-09-02,1,31,Card
+C0224,Demo Customer 0224,Atlanta,P019,Storage Basket,Home,DEMO-00572,2025-02-21,2,41,Bank transfer
+C0201,Demo Customer 0201,Austin,P014,Hiking Socks,Outdoor,DEMO-00573,2026-08-29,2,19,Gift card
+C0139,Demo Customer 0139,Chicago,P003,Ceramic Mug,Home,DEMO-00574,2024-09-05,1,18,Bank transfer
+C0005,Demo Customer 0005,Seattle,P006,Linen Shirt,Apparel,DEMO-00575,2026-03-31,2,58,Gift card
+C0042,Demo Customer 0042,Boston,P017,Cotton Hoodie,Apparel,DEMO-00576,2024-09-09,1,72,Card
+C0090,Demo Customer 0090,Boston,P014,Hiking Socks,Outdoor,DEMO-00577,2024-10-12,1,19,Gift card
+C0085,Demo Customer 0085,Seattle,P013,Smart Watch Band,Electronics,DEMO-00578,2025-11-20,1,26,Gift card
+C0166,Demo Customer 0166,Miami,P005,Desk Lamp,Home,DEMO-00579,2026-07-10,1,64,Gift card
+C0078,Demo Customer 0078,Miami,P015,Insulated Lunch Bag,Outdoor,DEMO-00580,2024-03-12,1,34,PayPal
+C0003,Demo Customer 0003,Chicago,P012,Cookware Set,Home,DEMO-00581,2026-10-04,1,145,PayPal
+C0109,Demo Customer 0109,Seattle,P015,Insulated Lunch Bag,Outdoor,DEMO-00582,2024-11-04,1,34,Card
+C0216,Demo Customer 0216,Atlanta,P018,Resistance Bands,Fitness,DEMO-00583,2026-04-15,1,22,Bank transfer
+C0195,Demo Customer 0195,Chicago,P011,Running Jacket,Apparel,DEMO-00584,2025-03-22,1,98,Card
+C0124,Demo Customer 0124,Denver,P019,Storage Basket,Home,DEMO-00585,2024-12-01,1,41,Card
+C0152,Demo Customer 0152,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00586,2025-02-21,1,76,PayPal
+C0221,Demo Customer 0221,Seattle,P011,Running Jacket,Apparel,DEMO-00587,2025-05-24,1,98,Gift card
+C0109,Demo Customer 0109,Seattle,P014,Hiking Socks,Outdoor,DEMO-00588,2025-10-30,1,19,Card
+C0155,Demo Customer 0155,Chicago,P004,Trail Bottle,Outdoor,DEMO-00589,2026-04-01,1,32,PayPal
+C0048,Demo Customer 0048,Atlanta,P005,Desk Lamp,Home,DEMO-00590,2024-07-20,2,64,PayPal
+C0236,Demo Customer 0236,Denver,P009,Yoga Mat,Fitness,DEMO-00591,2025-08-06,1,45,Bank transfer
+C0202,Demo Customer 0202,Boston,P011,Running Jacket,Apparel,DEMO-00592,2026-05-11,1,98,PayPal
+C0008,Demo Customer 0008,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00593,2025-10-25,2,32,Card
+C0146,Demo Customer 0146,Boston,P010,Canvas Backpack,Accessories,DEMO-00594,2024-11-15,2,76,Card
+C0170,Demo Customer 0170,Boston,P004,Trail Bottle,Outdoor,DEMO-00595,2026-06-08,1,32,PayPal
+C0114,Demo Customer 0114,Boston,P001,Everyday Tote,Accessories,DEMO-00596,2024-12-26,1,38,PayPal
+C0028,Demo Customer 0028,Denver,P007,Travel Organizer,Accessories,DEMO-00597,2025-04-19,1,27,Card
+C0017,Demo Customer 0017,Austin,P016,Wireless Charger,Electronics,DEMO-00598,2025-06-02,2,39,PayPal
+C0202,Demo Customer 0202,Boston,P010,Canvas Backpack,Accessories,DEMO-00599,2024-09-18,1,76,Bank transfer
+C0047,Demo Customer 0047,Portland,P007,Travel Organizer,Accessories,DEMO-00600,2026-03-27,1,27,Bank transfer
+C0093,Demo Customer 0093,Seattle,P020,Packing Cubes,Accessories,DEMO-00601,2024-04-11,1,31,Bank transfer
+C0191,Demo Customer 0191,Portland,P006,Linen Shirt,Apparel,DEMO-00602,2024-12-15,2,58,Card
+C0052,Demo Customer 0052,Denver,P019,Storage Basket,Home,DEMO-00603,2025-06-27,2,41,Gift card
+C0076,Demo Customer 0076,Denver,P014,Hiking Socks,Outdoor,DEMO-00604,2024-06-15,1,19,Bank transfer
+C0112,Demo Customer 0112,Atlanta,P002,Wireless Earbuds,Electronics,DEMO-00605,2024-09-25,1,89,Bank transfer
+C0037,Demo Customer 0037,Seattle,P011,Running Jacket,Apparel,DEMO-00606,2024-02-21,1,98,Card
+C0139,Demo Customer 0139,Chicago,P009,Yoga Mat,Fitness,DEMO-00607,2024-09-12,2,45,Gift card
+C0067,Demo Customer 0067,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00608,2025-10-17,1,72,Gift card
+C0096,Demo Customer 0096,Atlanta,P003,Ceramic Mug,Home,DEMO-00609,2026-05-09,1,18,Card
+C0017,Demo Customer 0017,Austin,P002,Wireless Earbuds,Electronics,DEMO-00610,2024-05-11,1,89,PayPal
+C0232,Demo Customer 0232,Atlanta,P020,Packing Cubes,Accessories,DEMO-00611,2025-01-22,1,31,Bank transfer
+C0228,Demo Customer 0228,Denver,P012,Cookware Set,Home,DEMO-00612,2025-09-17,1,145,Card
+C0120,Demo Customer 0120,Atlanta,P015,Insulated Lunch Bag,Outdoor,DEMO-00613,2025-07-05,1,34,Gift card
+C0098,Demo Customer 0098,Boston,P014,Hiking Socks,Outdoor,DEMO-00614,2025-01-26,2,19,Gift card
+C0111,Demo Customer 0111,Portland,P016,Wireless Charger,Electronics,DEMO-00615,2024-10-21,1,39,Bank transfer
+C0024,Demo Customer 0024,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00616,2026-08-10,1,76,Card
+C0098,Demo Customer 0098,Boston,P019,Storage Basket,Home,DEMO-00617,2025-10-05,1,41,Card
+C0118,Demo Customer 0118,Miami,P009,Yoga Mat,Fitness,DEMO-00618,2025-08-29,1,45,Bank transfer
+C0170,Demo Customer 0170,Boston,P017,Cotton Hoodie,Apparel,DEMO-00619,2024-09-17,1,72,Bank transfer
+C0114,Demo Customer 0114,Boston,P020,Packing Cubes,Accessories,DEMO-00620,2025-06-13,1,31,Gift card
+C0029,Demo Customer 0029,Seattle,P020,Packing Cubes,Accessories,DEMO-00621,2026-07-14,2,31,Bank transfer
+C0202,Demo Customer 0202,Boston,P001,Everyday Tote,Accessories,DEMO-00622,2026-09-24,2,38,Gift card
+C0037,Demo Customer 0037,Seattle,P004,Trail Bottle,Outdoor,DEMO-00623,2026-02-19,1,32,Gift card
+C0058,Demo Customer 0058,Boston,P010,Canvas Backpack,Accessories,DEMO-00624,2025-01-14,1,76,PayPal
+C0127,Demo Customer 0127,Portland,P006,Linen Shirt,Apparel,DEMO-00625,2025-10-28,1,58,Gift card
+C0053,Demo Customer 0053,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00626,2024-02-28,2,119,Card
+C0151,Demo Customer 0151,Portland,P006,Linen Shirt,Apparel,DEMO-00627,2025-06-09,1,58,Bank transfer
+C0212,Demo Customer 0212,Denver,P020,Packing Cubes,Accessories,DEMO-00628,2025-07-15,2,31,Card
+C0018,Demo Customer 0018,Boston,P018,Resistance Bands,Fitness,DEMO-00629,2026-02-16,1,22,Card
+C0060,Demo Customer 0060,Denver,P003,Ceramic Mug,Home,DEMO-00630,2026-01-10,1,18,Bank transfer
+C0036,Demo Customer 0036,Denver,P009,Yoga Mat,Fitness,DEMO-00631,2024-10-01,1,45,PayPal
+C0105,Demo Customer 0105,Austin,P013,Smart Watch Band,Electronics,DEMO-00632,2025-10-22,1,26,Card
+C0097,Demo Customer 0097,Austin,P016,Wireless Charger,Electronics,DEMO-00633,2025-02-22,1,39,Gift card
+C0196,Demo Customer 0196,Denver,P005,Desk Lamp,Home,DEMO-00634,2024-05-23,1,64,Card
+C0245,Demo Customer 0245,Seattle,P016,Wireless Charger,Electronics,DEMO-00635,2025-02-10,2,39,Card
+C0139,Demo Customer 0139,Chicago,P018,Resistance Bands,Fitness,DEMO-00636,2026-07-16,1,22,Bank transfer
+C0120,Demo Customer 0120,Atlanta,P003,Ceramic Mug,Home,DEMO-00637,2026-06-28,1,18,PayPal
+C0126,Demo Customer 0126,Miami,P002,Wireless Earbuds,Electronics,DEMO-00638,2025-04-03,2,89,Gift card
+C0092,Demo Customer 0092,Denver,P019,Storage Basket,Home,DEMO-00639,2024-04-15,2,41,Bank transfer
+C0232,Demo Customer 0232,Atlanta,P012,Cookware Set,Home,DEMO-00640,2025-01-19,1,145,Gift card
+C0054,Demo Customer 0054,Miami,P016,Wireless Charger,Electronics,DEMO-00641,2025-04-10,1,39,Card
+C0195,Demo Customer 0195,Chicago,P007,Travel Organizer,Accessories,DEMO-00642,2026-09-12,1,27,Bank transfer
+C0218,Demo Customer 0218,Boston,P013,Smart Watch Band,Electronics,DEMO-00643,2024-11-10,1,26,Card
+C0095,Demo Customer 0095,Portland,P003,Ceramic Mug,Home,DEMO-00644,2025-04-18,1,18,Bank transfer
+C0006,Demo Customer 0006,Miami,P006,Linen Shirt,Apparel,DEMO-00645,2026-01-27,1,58,Card
+C0098,Demo Customer 0098,Boston,P018,Resistance Bands,Fitness,DEMO-00646,2025-01-04,1,22,Bank transfer
+C0184,Demo Customer 0184,Atlanta,P014,Hiking Socks,Outdoor,DEMO-00647,2025-11-22,1,19,Bank transfer
+C0155,Demo Customer 0155,Chicago,P005,Desk Lamp,Home,DEMO-00648,2024-11-08,1,64,Card
+C0019,Demo Customer 0019,Chicago,P001,Everyday Tote,Accessories,DEMO-00649,2024-07-31,1,38,Card
+C0247,Demo Customer 0247,Portland,P002,Wireless Earbuds,Electronics,DEMO-00650,2026-05-07,2,89,Card
+C0160,Demo Customer 0160,Atlanta,P009,Yoga Mat,Fitness,DEMO-00651,2025-08-19,1,45,Card
+C0211,Demo Customer 0211,Chicago,P005,Desk Lamp,Home,DEMO-00652,2026-01-18,2,64,Card
+C0049,Demo Customer 0049,Austin,P018,Resistance Bands,Fitness,DEMO-00653,2024-08-17,1,22,Gift card
+C0200,Demo Customer 0200,Atlanta,P005,Desk Lamp,Home,DEMO-00654,2025-12-02,1,64,Gift card
+C0215,Demo Customer 0215,Portland,P011,Running Jacket,Apparel,DEMO-00655,2025-10-24,2,98,PayPal
+C0104,Demo Customer 0104,Atlanta,P016,Wireless Charger,Electronics,DEMO-00656,2026-03-15,1,39,PayPal
+C0193,Demo Customer 0193,Austin,P017,Cotton Hoodie,Apparel,DEMO-00657,2025-01-14,1,72,Bank transfer
+C0165,Demo Customer 0165,Seattle,P006,Linen Shirt,Apparel,DEMO-00658,2024-07-26,1,58,Gift card
+C0003,Demo Customer 0003,Chicago,P004,Trail Bottle,Outdoor,DEMO-00659,2024-04-27,2,32,PayPal
+C0120,Demo Customer 0120,Atlanta,P015,Insulated Lunch Bag,Outdoor,DEMO-00660,2025-06-02,1,34,PayPal
+C0060,Demo Customer 0060,Denver,P011,Running Jacket,Apparel,DEMO-00661,2025-10-06,1,98,PayPal
+C0090,Demo Customer 0090,Boston,P004,Trail Bottle,Outdoor,DEMO-00662,2025-11-15,2,32,PayPal
+C0234,Demo Customer 0234,Boston,P014,Hiking Socks,Outdoor,DEMO-00663,2025-03-19,1,19,Card
+C0167,Demo Customer 0167,Portland,P007,Travel Organizer,Accessories,DEMO-00664,2026-09-14,1,27,Gift card
+C0030,Demo Customer 0030,Miami,P003,Ceramic Mug,Home,DEMO-00665,2024-01-12,1,18,Card
+C0100,Demo Customer 0100,Denver,P012,Cookware Set,Home,DEMO-00666,2024-09-25,1,145,Bank transfer
+C0169,Demo Customer 0169,Austin,P010,Canvas Backpack,Accessories,DEMO-00667,2025-10-15,1,76,Card
+C0065,Demo Customer 0065,Austin,P003,Ceramic Mug,Home,DEMO-00668,2026-02-22,3,18,PayPal
+C0235,Demo Customer 0235,Chicago,P011,Running Jacket,Apparel,DEMO-00669,2024-04-02,1,98,Gift card
+C0140,Demo Customer 0140,Denver,P009,Yoga Mat,Fitness,DEMO-00670,2024-04-03,1,45,Bank transfer
+C0113,Demo Customer 0113,Austin,P012,Cookware Set,Home,DEMO-00671,2024-12-14,2,145,Gift card
+C0233,Demo Customer 0233,Austin,P017,Cotton Hoodie,Apparel,DEMO-00672,2024-01-24,2,72,Card
+C0151,Demo Customer 0151,Portland,P006,Linen Shirt,Apparel,DEMO-00673,2026-10-12,2,58,Bank transfer
+C0001,Demo Customer 0001,Austin,P020,Packing Cubes,Accessories,DEMO-00674,2025-08-12,1,31,Card
+C0099,Demo Customer 0099,Chicago,P013,Smart Watch Band,Electronics,DEMO-00675,2024-12-22,2,26,Bank transfer
+C0235,Demo Customer 0235,Chicago,P016,Wireless Charger,Electronics,DEMO-00676,2025-10-11,1,39,Gift card
+C0109,Demo Customer 0109,Seattle,P012,Cookware Set,Home,DEMO-00677,2026-03-14,2,145,Card
+C0108,Demo Customer 0108,Denver,P018,Resistance Bands,Fitness,DEMO-00678,2025-01-28,1,22,Card
+C0124,Demo Customer 0124,Denver,P005,Desk Lamp,Home,DEMO-00679,2026-04-30,1,64,Card
+C0250,Demo Customer 0250,Boston,P004,Trail Bottle,Outdoor,DEMO-00680,2024-09-30,1,32,PayPal
+C0056,Demo Customer 0056,Atlanta,P014,Hiking Socks,Outdoor,DEMO-00681,2024-09-13,1,19,Bank transfer
+C0133,Demo Customer 0133,Seattle,P019,Storage Basket,Home,DEMO-00682,2024-11-10,2,41,Gift card
+C0125,Demo Customer 0125,Seattle,P012,Cookware Set,Home,DEMO-00683,2024-04-17,1,145,PayPal
+C0107,Demo Customer 0107,Chicago,P020,Packing Cubes,Accessories,DEMO-00684,2024-07-11,1,31,Card
+C0209,Demo Customer 0209,Austin,P010,Canvas Backpack,Accessories,DEMO-00685,2025-07-17,2,76,PayPal
+C0187,Demo Customer 0187,Chicago,P006,Linen Shirt,Apparel,DEMO-00686,2025-02-23,1,58,Card
+C0208,Demo Customer 0208,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00687,2026-08-10,1,76,Card
+C0130,Demo Customer 0130,Boston,P010,Canvas Backpack,Accessories,DEMO-00688,2025-10-28,2,76,Gift card
+C0228,Demo Customer 0228,Denver,P005,Desk Lamp,Home,DEMO-00689,2024-10-04,2,64,Bank transfer
+C0220,Demo Customer 0220,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00690,2024-12-17,1,119,Gift card
+C0236,Demo Customer 0236,Denver,P012,Cookware Set,Home,DEMO-00691,2024-07-26,1,145,PayPal
+C0013,Demo Customer 0013,Seattle,P005,Desk Lamp,Home,DEMO-00692,2025-01-28,1,64,Gift card
+C0028,Demo Customer 0028,Denver,P014,Hiking Socks,Outdoor,DEMO-00693,2025-12-07,1,19,Bank transfer
+C0245,Demo Customer 0245,Seattle,P010,Canvas Backpack,Accessories,DEMO-00694,2024-11-12,1,76,Bank transfer
+C0054,Demo Customer 0054,Miami,P011,Running Jacket,Apparel,DEMO-00695,2024-02-11,1,98,PayPal
+C0147,Demo Customer 0147,Chicago,P013,Smart Watch Band,Electronics,DEMO-00696,2024-05-22,1,26,Gift card
+C0108,Demo Customer 0108,Denver,P011,Running Jacket,Apparel,DEMO-00697,2025-04-28,1,98,PayPal
+C0097,Demo Customer 0097,Austin,P001,Everyday Tote,Accessories,DEMO-00698,2026-11-10,1,38,Gift card
+C0111,Demo Customer 0111,Portland,P004,Trail Bottle,Outdoor,DEMO-00699,2024-05-04,1,32,Card
+C0121,Demo Customer 0121,Austin,P007,Travel Organizer,Accessories,DEMO-00700,2026-02-27,1,27,PayPal
+C0204,Demo Customer 0204,Denver,P010,Canvas Backpack,Accessories,DEMO-00701,2025-12-12,1,76,PayPal
+C0138,Demo Customer 0138,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00702,2026-10-22,1,119,PayPal
+C0158,Demo Customer 0158,Miami,P011,Running Jacket,Apparel,DEMO-00703,2025-04-18,2,98,Card
+C0019,Demo Customer 0019,Chicago,P003,Ceramic Mug,Home,DEMO-00704,2025-04-08,1,18,Bank transfer
+C0084,Demo Customer 0084,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00705,2025-07-04,2,119,Bank transfer
+C0006,Demo Customer 0006,Miami,P008,Bluetooth Speaker,Electronics,DEMO-00706,2026-06-20,1,119,Gift card
+C0103,Demo Customer 0103,Portland,P006,Linen Shirt,Apparel,DEMO-00707,2025-05-24,3,58,Gift card
+C0161,Demo Customer 0161,Austin,P015,Insulated Lunch Bag,Outdoor,DEMO-00708,2025-08-19,1,34,Bank transfer
+C0040,Demo Customer 0040,Atlanta,P018,Resistance Bands,Fitness,DEMO-00709,2025-10-16,2,22,Gift card
+C0128,Demo Customer 0128,Atlanta,P005,Desk Lamp,Home,DEMO-00710,2026-05-23,1,64,PayPal
+C0122,Demo Customer 0122,Boston,P004,Trail Bottle,Outdoor,DEMO-00711,2024-05-02,1,32,Gift card
+C0177,Demo Customer 0177,Austin,P017,Cotton Hoodie,Apparel,DEMO-00712,2026-11-13,1,72,PayPal
+C0205,Demo Customer 0205,Seattle,P001,Everyday Tote,Accessories,DEMO-00713,2025-05-19,2,38,Bank transfer
+C0180,Demo Customer 0180,Denver,P020,Packing Cubes,Accessories,DEMO-00714,2024-10-08,1,31,Gift card
+C0122,Demo Customer 0122,Boston,P001,Everyday Tote,Accessories,DEMO-00715,2025-07-26,1,38,Bank transfer
+C0053,Demo Customer 0053,Seattle,P009,Yoga Mat,Fitness,DEMO-00716,2024-01-07,1,45,Gift card
+C0055,Demo Customer 0055,Portland,P015,Insulated Lunch Bag,Outdoor,DEMO-00717,2025-05-15,2,34,Card
+C0006,Demo Customer 0006,Miami,P001,Everyday Tote,Accessories,DEMO-00718,2026-06-10,1,38,Card
+C0249,Demo Customer 0249,Austin,P009,Yoga Mat,Fitness,DEMO-00719,2026-03-08,2,45,Gift card
+C0152,Demo Customer 0152,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00720,2025-07-06,2,26,Card
+C0203,Demo Customer 0203,Chicago,P001,Everyday Tote,Accessories,DEMO-00721,2025-02-07,1,38,Card
+C0147,Demo Customer 0147,Chicago,P014,Hiking Socks,Outdoor,DEMO-00722,2025-10-02,2,19,Gift card
+C0150,Demo Customer 0150,Miami,P001,Everyday Tote,Accessories,DEMO-00723,2024-02-11,1,38,Card
+C0160,Demo Customer 0160,Atlanta,P016,Wireless Charger,Electronics,DEMO-00724,2026-05-04,1,39,Gift card
+C0024,Demo Customer 0024,Atlanta,P016,Wireless Charger,Electronics,DEMO-00725,2026-08-01,1,39,Gift card
+C0011,Demo Customer 0011,Chicago,P019,Storage Basket,Home,DEMO-00726,2026-05-08,1,41,Card
+C0072,Demo Customer 0072,Atlanta,P007,Travel Organizer,Accessories,DEMO-00727,2024-08-27,1,27,Card
+C0121,Demo Customer 0121,Austin,P006,Linen Shirt,Apparel,DEMO-00728,2026-10-27,1,58,Gift card
+C0105,Demo Customer 0105,Austin,P002,Wireless Earbuds,Electronics,DEMO-00729,2026-04-08,1,89,Bank transfer
+C0224,Demo Customer 0224,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00730,2024-02-05,1,26,Bank transfer
+C0225,Demo Customer 0225,Austin,P010,Canvas Backpack,Accessories,DEMO-00731,2024-08-25,2,76,Bank transfer
+C0089,Demo Customer 0089,Austin,P011,Running Jacket,Apparel,DEMO-00732,2024-01-15,1,98,Bank transfer
+C0115,Demo Customer 0115,Chicago,P006,Linen Shirt,Apparel,DEMO-00733,2026-07-31,1,58,Gift card
+C0162,Demo Customer 0162,Boston,P003,Ceramic Mug,Home,DEMO-00734,2026-04-17,1,18,PayPal
+C0008,Demo Customer 0008,Atlanta,P001,Everyday Tote,Accessories,DEMO-00735,2026-07-13,1,38,PayPal
+C0168,Demo Customer 0168,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-00736,2025-01-19,1,119,Card
+C0089,Demo Customer 0089,Austin,P012,Cookware Set,Home,DEMO-00737,2026-03-03,1,145,PayPal
+C0070,Demo Customer 0070,Miami,P005,Desk Lamp,Home,DEMO-00738,2025-10-14,1,64,Bank transfer
+C0203,Demo Customer 0203,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00739,2024-05-05,2,89,Gift card
+C0046,Demo Customer 0046,Miami,P001,Everyday Tote,Accessories,DEMO-00740,2025-01-28,2,38,PayPal
+C0013,Demo Customer 0013,Seattle,P002,Wireless Earbuds,Electronics,DEMO-00741,2025-11-28,1,89,Bank transfer
+C0037,Demo Customer 0037,Seattle,P007,Travel Organizer,Accessories,DEMO-00742,2025-11-18,1,27,PayPal
+C0062,Demo Customer 0062,Miami,P001,Everyday Tote,Accessories,DEMO-00743,2024-12-20,2,38,PayPal
+C0238,Demo Customer 0238,Miami,P019,Storage Basket,Home,DEMO-00744,2025-07-11,2,41,Card
+C0211,Demo Customer 0211,Chicago,P007,Travel Organizer,Accessories,DEMO-00745,2026-09-04,2,27,Gift card
+C0172,Demo Customer 0172,Denver,P007,Travel Organizer,Accessories,DEMO-00746,2025-11-02,1,27,Gift card
+C0086,Demo Customer 0086,Miami,P016,Wireless Charger,Electronics,DEMO-00747,2025-12-06,1,39,Gift card
+C0152,Demo Customer 0152,Atlanta,P019,Storage Basket,Home,DEMO-00748,2025-04-18,2,41,PayPal
+C0075,Demo Customer 0075,Chicago,P002,Wireless Earbuds,Electronics,DEMO-00749,2024-08-04,1,89,PayPal
+C0033,Demo Customer 0033,Austin,P020,Packing Cubes,Accessories,DEMO-00750,2025-07-10,1,31,Gift card
+C0026,Demo Customer 0026,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00751,2024-09-10,2,119,Bank transfer
+C0154,Demo Customer 0154,Boston,P018,Resistance Bands,Fitness,DEMO-00752,2025-12-12,2,22,Gift card
+C0226,Demo Customer 0226,Boston,P006,Linen Shirt,Apparel,DEMO-00753,2025-06-27,1,58,PayPal
+C0243,Demo Customer 0243,Chicago,P009,Yoga Mat,Fitness,DEMO-00754,2025-04-04,1,45,Bank transfer
+C0175,Demo Customer 0175,Portland,P006,Linen Shirt,Apparel,DEMO-00755,2025-02-03,1,58,Card
+C0039,Demo Customer 0039,Portland,P011,Running Jacket,Apparel,DEMO-00756,2025-11-09,1,98,Bank transfer
+C0049,Demo Customer 0049,Austin,P010,Canvas Backpack,Accessories,DEMO-00757,2024-10-01,1,76,Card
+C0006,Demo Customer 0006,Miami,P017,Cotton Hoodie,Apparel,DEMO-00758,2024-08-10,2,72,Gift card
+C0220,Demo Customer 0220,Denver,P004,Trail Bottle,Outdoor,DEMO-00759,2026-03-15,1,32,PayPal
+C0112,Demo Customer 0112,Atlanta,P009,Yoga Mat,Fitness,DEMO-00760,2024-09-15,1,45,Card
+C0164,Demo Customer 0164,Denver,P013,Smart Watch Band,Electronics,DEMO-00761,2026-08-13,1,26,PayPal
+C0241,Demo Customer 0241,Austin,P002,Wireless Earbuds,Electronics,DEMO-00762,2025-05-05,1,89,Gift card
+C0223,Demo Customer 0223,Portland,P020,Packing Cubes,Accessories,DEMO-00763,2025-02-22,1,31,PayPal
+C0056,Demo Customer 0056,Atlanta,P002,Wireless Earbuds,Electronics,DEMO-00764,2025-12-12,1,89,Gift card
+C0113,Demo Customer 0113,Austin,P012,Cookware Set,Home,DEMO-00765,2025-06-08,1,145,Bank transfer
+C0203,Demo Customer 0203,Chicago,P004,Trail Bottle,Outdoor,DEMO-00766,2026-10-09,1,32,Bank transfer
+C0067,Demo Customer 0067,Chicago,P005,Desk Lamp,Home,DEMO-00767,2026-05-20,2,64,Card
+C0100,Demo Customer 0100,Denver,P016,Wireless Charger,Electronics,DEMO-00768,2024-10-18,2,39,Card
+C0035,Demo Customer 0035,Chicago,P005,Desk Lamp,Home,DEMO-00769,2024-12-22,2,64,Card
+C0236,Demo Customer 0236,Denver,P007,Travel Organizer,Accessories,DEMO-00770,2025-04-06,1,27,Gift card
+C0009,Demo Customer 0009,Austin,P001,Everyday Tote,Accessories,DEMO-00771,2025-07-17,1,38,Card
+C0108,Demo Customer 0108,Denver,P001,Everyday Tote,Accessories,DEMO-00772,2026-03-08,1,38,Gift card
+C0105,Demo Customer 0105,Austin,P001,Everyday Tote,Accessories,DEMO-00773,2026-11-12,1,38,Bank transfer
+C0141,Demo Customer 0141,Seattle,P009,Yoga Mat,Fitness,DEMO-00774,2024-12-08,1,45,PayPal
+C0204,Demo Customer 0204,Denver,P020,Packing Cubes,Accessories,DEMO-00775,2026-07-03,1,31,Bank transfer
+C0094,Demo Customer 0094,Miami,P010,Canvas Backpack,Accessories,DEMO-00776,2024-01-12,1,76,Gift card
+C0025,Demo Customer 0025,Austin,P006,Linen Shirt,Apparel,DEMO-00777,2025-04-30,1,58,Bank transfer
+C0022,Demo Customer 0022,Miami,P017,Cotton Hoodie,Apparel,DEMO-00778,2024-05-11,1,72,Bank transfer
+C0024,Demo Customer 0024,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00779,2024-04-09,2,32,Gift card
+C0042,Demo Customer 0042,Boston,P011,Running Jacket,Apparel,DEMO-00780,2025-07-12,2,98,Gift card
+C0044,Demo Customer 0044,Denver,P018,Resistance Bands,Fitness,DEMO-00781,2024-12-30,1,22,Gift card
+C0184,Demo Customer 0184,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00782,2025-03-26,1,26,PayPal
+C0172,Demo Customer 0172,Denver,P003,Ceramic Mug,Home,DEMO-00783,2026-09-30,3,18,Gift card
+C0098,Demo Customer 0098,Boston,P010,Canvas Backpack,Accessories,DEMO-00784,2026-08-21,1,76,Bank transfer
+C0142,Demo Customer 0142,Miami,P001,Everyday Tote,Accessories,DEMO-00785,2026-10-01,1,38,Bank transfer
+C0191,Demo Customer 0191,Portland,P019,Storage Basket,Home,DEMO-00786,2026-10-01,1,41,PayPal
+C0101,Demo Customer 0101,Seattle,P015,Insulated Lunch Bag,Outdoor,DEMO-00787,2024-01-24,1,34,Gift card
+C0183,Demo Customer 0183,Portland,P009,Yoga Mat,Fitness,DEMO-00788,2024-08-07,1,45,Card
+C0167,Demo Customer 0167,Portland,P008,Bluetooth Speaker,Electronics,DEMO-00789,2025-10-29,2,119,Gift card
+C0001,Demo Customer 0001,Austin,P006,Linen Shirt,Apparel,DEMO-00790,2025-05-21,1,58,Gift card
+C0002,Demo Customer 0002,Boston,P004,Trail Bottle,Outdoor,DEMO-00791,2024-06-17,1,32,Card
+C0004,Demo Customer 0004,Denver,P003,Ceramic Mug,Home,DEMO-00792,2025-01-21,1,18,Bank transfer
+C0091,Demo Customer 0091,Chicago,P012,Cookware Set,Home,DEMO-00793,2024-11-23,1,145,Bank transfer
+C0240,Demo Customer 0240,Atlanta,P019,Storage Basket,Home,DEMO-00794,2026-03-19,1,41,Bank transfer
+C0095,Demo Customer 0095,Portland,P005,Desk Lamp,Home,DEMO-00795,2025-12-26,1,64,Card
+C0167,Demo Customer 0167,Portland,P006,Linen Shirt,Apparel,DEMO-00796,2024-06-02,1,58,Bank transfer
+C0155,Demo Customer 0155,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-00797,2024-09-21,2,34,PayPal
+C0009,Demo Customer 0009,Austin,P007,Travel Organizer,Accessories,DEMO-00798,2024-04-12,2,27,PayPal
+C0083,Demo Customer 0083,Chicago,P007,Travel Organizer,Accessories,DEMO-00799,2025-09-14,1,27,Card
+C0025,Demo Customer 0025,Austin,P016,Wireless Charger,Electronics,DEMO-00800,2024-02-20,1,39,Card
+C0091,Demo Customer 0091,Chicago,P011,Running Jacket,Apparel,DEMO-00801,2024-10-20,1,98,Card
+C0054,Demo Customer 0054,Miami,P009,Yoga Mat,Fitness,DEMO-00802,2024-06-11,1,45,Bank transfer
+C0135,Demo Customer 0135,Portland,P010,Canvas Backpack,Accessories,DEMO-00803,2025-02-27,1,76,PayPal
+C0077,Demo Customer 0077,Seattle,P016,Wireless Charger,Electronics,DEMO-00804,2026-09-02,1,39,Gift card
+C0203,Demo Customer 0203,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00805,2025-06-01,1,72,Gift card
+C0098,Demo Customer 0098,Boston,P010,Canvas Backpack,Accessories,DEMO-00806,2026-05-17,1,76,Bank transfer
+C0126,Demo Customer 0126,Miami,P018,Resistance Bands,Fitness,DEMO-00807,2024-12-28,1,22,Bank transfer
+C0153,Demo Customer 0153,Austin,P020,Packing Cubes,Accessories,DEMO-00808,2024-08-14,2,31,Bank transfer
+C0184,Demo Customer 0184,Atlanta,P006,Linen Shirt,Apparel,DEMO-00809,2026-02-08,2,58,PayPal
+C0242,Demo Customer 0242,Boston,P017,Cotton Hoodie,Apparel,DEMO-00810,2024-10-05,1,72,Bank transfer
+C0052,Demo Customer 0052,Denver,P009,Yoga Mat,Fitness,DEMO-00811,2026-02-08,1,45,Card
+C0036,Demo Customer 0036,Denver,P001,Everyday Tote,Accessories,DEMO-00812,2025-04-24,1,38,Gift card
+C0092,Demo Customer 0092,Denver,P001,Everyday Tote,Accessories,DEMO-00813,2024-04-23,1,38,Gift card
+C0234,Demo Customer 0234,Boston,P002,Wireless Earbuds,Electronics,DEMO-00814,2024-04-19,1,89,Bank transfer
+C0180,Demo Customer 0180,Denver,P005,Desk Lamp,Home,DEMO-00815,2025-05-30,1,64,Bank transfer
+C0159,Demo Customer 0159,Portland,P008,Bluetooth Speaker,Electronics,DEMO-00816,2025-02-03,1,119,Bank transfer
+C0236,Demo Customer 0236,Denver,P010,Canvas Backpack,Accessories,DEMO-00817,2026-02-02,1,76,Bank transfer
+C0036,Demo Customer 0036,Denver,P003,Ceramic Mug,Home,DEMO-00818,2026-07-10,2,18,Gift card
+C0025,Demo Customer 0025,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00819,2024-01-22,1,119,Gift card
+C0099,Demo Customer 0099,Chicago,P009,Yoga Mat,Fitness,DEMO-00820,2026-04-09,1,45,PayPal
+C0045,Demo Customer 0045,Seattle,P018,Resistance Bands,Fitness,DEMO-00821,2026-02-06,1,22,Gift card
+C0227,Demo Customer 0227,Chicago,P018,Resistance Bands,Fitness,DEMO-00822,2026-06-03,2,22,Bank transfer
+C0234,Demo Customer 0234,Boston,P013,Smart Watch Band,Electronics,DEMO-00823,2026-09-27,2,26,Gift card
+C0123,Demo Customer 0123,Chicago,P008,Bluetooth Speaker,Electronics,DEMO-00824,2026-05-31,1,119,Card
+C0201,Demo Customer 0201,Austin,P007,Travel Organizer,Accessories,DEMO-00825,2026-09-12,2,27,PayPal
+C0036,Demo Customer 0036,Denver,P017,Cotton Hoodie,Apparel,DEMO-00826,2026-06-20,1,72,Bank transfer
+C0126,Demo Customer 0126,Miami,P008,Bluetooth Speaker,Electronics,DEMO-00827,2026-10-05,2,119,Gift card
+C0096,Demo Customer 0096,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00828,2024-08-03,2,32,PayPal
+C0049,Demo Customer 0049,Austin,P017,Cotton Hoodie,Apparel,DEMO-00829,2024-05-08,1,72,Card
+C0246,Demo Customer 0246,Miami,P015,Insulated Lunch Bag,Outdoor,DEMO-00830,2026-06-05,2,34,Bank transfer
+C0090,Demo Customer 0090,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00831,2024-07-28,2,119,Bank transfer
+C0059,Demo Customer 0059,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-00832,2026-04-30,1,34,Bank transfer
+C0167,Demo Customer 0167,Portland,P013,Smart Watch Band,Electronics,DEMO-00833,2026-05-02,1,26,Card
+C0237,Demo Customer 0237,Seattle,P018,Resistance Bands,Fitness,DEMO-00834,2025-10-08,2,22,Bank transfer
+C0230,Demo Customer 0230,Miami,P004,Trail Bottle,Outdoor,DEMO-00835,2026-09-02,2,32,Bank transfer
+C0250,Demo Customer 0250,Boston,P015,Insulated Lunch Bag,Outdoor,DEMO-00836,2025-06-20,1,34,Card
+C0025,Demo Customer 0025,Austin,P002,Wireless Earbuds,Electronics,DEMO-00837,2025-04-21,1,89,Card
+C0015,Demo Customer 0015,Portland,P017,Cotton Hoodie,Apparel,DEMO-00838,2025-01-07,1,72,PayPal
+C0189,Demo Customer 0189,Seattle,P005,Desk Lamp,Home,DEMO-00839,2024-04-04,1,64,Gift card
+C0121,Demo Customer 0121,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00840,2024-04-27,1,119,Gift card
+C0204,Demo Customer 0204,Denver,P018,Resistance Bands,Fitness,DEMO-00841,2024-08-11,1,22,PayPal
+C0068,Demo Customer 0068,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-00842,2025-01-25,1,34,Card
+C0085,Demo Customer 0085,Seattle,P019,Storage Basket,Home,DEMO-00843,2026-06-05,1,41,PayPal
+C0033,Demo Customer 0033,Austin,P004,Trail Bottle,Outdoor,DEMO-00844,2024-11-15,2,32,PayPal
+C0140,Demo Customer 0140,Denver,P004,Trail Bottle,Outdoor,DEMO-00845,2025-01-09,2,32,Bank transfer
+C0138,Demo Customer 0138,Boston,P007,Travel Organizer,Accessories,DEMO-00846,2026-10-06,1,27,Gift card
+C0087,Demo Customer 0087,Portland,P014,Hiking Socks,Outdoor,DEMO-00847,2026-03-02,2,19,Bank transfer
+C0034,Demo Customer 0034,Boston,P009,Yoga Mat,Fitness,DEMO-00848,2026-04-06,1,45,Card
+C0201,Demo Customer 0201,Austin,P007,Travel Organizer,Accessories,DEMO-00849,2024-10-07,2,27,Gift card
+C0227,Demo Customer 0227,Chicago,P009,Yoga Mat,Fitness,DEMO-00850,2026-10-31,2,45,PayPal
+C0222,Demo Customer 0222,Miami,P005,Desk Lamp,Home,DEMO-00851,2026-05-05,2,64,Gift card
+C0003,Demo Customer 0003,Chicago,P016,Wireless Charger,Electronics,DEMO-00852,2026-03-11,1,39,Bank transfer
+C0037,Demo Customer 0037,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00853,2024-12-28,2,119,Gift card
+C0019,Demo Customer 0019,Chicago,P006,Linen Shirt,Apparel,DEMO-00854,2024-09-27,1,58,Gift card
+C0182,Demo Customer 0182,Miami,P019,Storage Basket,Home,DEMO-00855,2026-08-07,1,41,Bank transfer
+C0135,Demo Customer 0135,Portland,P019,Storage Basket,Home,DEMO-00856,2026-09-04,1,41,Bank transfer
+C0190,Demo Customer 0190,Miami,P017,Cotton Hoodie,Apparel,DEMO-00857,2024-09-25,1,72,Card
+C0245,Demo Customer 0245,Seattle,P006,Linen Shirt,Apparel,DEMO-00858,2025-06-26,2,58,Card
+C0152,Demo Customer 0152,Atlanta,P001,Everyday Tote,Accessories,DEMO-00859,2024-07-11,1,38,Bank transfer
+C0057,Demo Customer 0057,Austin,P004,Trail Bottle,Outdoor,DEMO-00860,2026-09-26,1,32,Gift card
+C0182,Demo Customer 0182,Miami,P009,Yoga Mat,Fitness,DEMO-00861,2024-04-14,1,45,Bank transfer
+C0158,Demo Customer 0158,Miami,P017,Cotton Hoodie,Apparel,DEMO-00862,2024-07-05,1,72,Gift card
+C0073,Demo Customer 0073,Austin,P011,Running Jacket,Apparel,DEMO-00863,2024-06-19,1,98,PayPal
+C0045,Demo Customer 0045,Seattle,P019,Storage Basket,Home,DEMO-00864,2026-04-12,2,41,PayPal
+C0245,Demo Customer 0245,Seattle,P006,Linen Shirt,Apparel,DEMO-00865,2026-09-03,1,58,PayPal
+C0139,Demo Customer 0139,Chicago,P018,Resistance Bands,Fitness,DEMO-00866,2024-02-20,1,22,Card
+C0063,Demo Customer 0063,Portland,P017,Cotton Hoodie,Apparel,DEMO-00867,2024-09-19,1,72,Bank transfer
+C0066,Demo Customer 0066,Boston,P010,Canvas Backpack,Accessories,DEMO-00868,2025-05-18,1,76,Gift card
+C0153,Demo Customer 0153,Austin,P002,Wireless Earbuds,Electronics,DEMO-00869,2025-09-05,1,89,Gift card
+C0050,Demo Customer 0050,Boston,P006,Linen Shirt,Apparel,DEMO-00870,2025-08-04,1,58,Gift card
+C0197,Demo Customer 0197,Seattle,P014,Hiking Socks,Outdoor,DEMO-00871,2025-02-27,1,19,Card
+C0201,Demo Customer 0201,Austin,P009,Yoga Mat,Fitness,DEMO-00872,2026-08-27,1,45,Bank transfer
+C0030,Demo Customer 0030,Miami,P020,Packing Cubes,Accessories,DEMO-00873,2025-05-24,1,31,PayPal
+C0083,Demo Customer 0083,Chicago,P017,Cotton Hoodie,Apparel,DEMO-00874,2024-12-23,1,72,PayPal
+C0134,Demo Customer 0134,Miami,P012,Cookware Set,Home,DEMO-00875,2026-10-02,1,145,PayPal
+C0188,Demo Customer 0188,Denver,P020,Packing Cubes,Accessories,DEMO-00876,2024-04-21,2,31,Card
+C0095,Demo Customer 0095,Portland,P020,Packing Cubes,Accessories,DEMO-00877,2026-06-25,1,31,Card
+C0160,Demo Customer 0160,Atlanta,P002,Wireless Earbuds,Electronics,DEMO-00878,2025-01-31,1,89,Gift card
+C0231,Demo Customer 0231,Portland,P004,Trail Bottle,Outdoor,DEMO-00879,2025-10-26,1,32,PayPal
+C0246,Demo Customer 0246,Miami,P013,Smart Watch Band,Electronics,DEMO-00880,2026-03-24,2,26,Bank transfer
+C0012,Demo Customer 0012,Denver,P018,Resistance Bands,Fitness,DEMO-00881,2025-06-05,1,22,Bank transfer
+C0200,Demo Customer 0200,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00882,2024-04-11,1,32,Bank transfer
+C0028,Demo Customer 0028,Denver,P002,Wireless Earbuds,Electronics,DEMO-00883,2024-09-05,1,89,Bank transfer
+C0172,Demo Customer 0172,Denver,P002,Wireless Earbuds,Electronics,DEMO-00884,2026-03-21,1,89,PayPal
+C0092,Demo Customer 0092,Denver,P011,Running Jacket,Apparel,DEMO-00885,2025-12-30,1,98,PayPal
+C0185,Demo Customer 0185,Austin,P010,Canvas Backpack,Accessories,DEMO-00886,2026-05-14,1,76,Bank transfer
+C0106,Demo Customer 0106,Boston,P007,Travel Organizer,Accessories,DEMO-00887,2026-04-04,1,27,PayPal
+C0030,Demo Customer 0030,Miami,P008,Bluetooth Speaker,Electronics,DEMO-00888,2024-10-31,1,119,PayPal
+C0092,Demo Customer 0092,Denver,P012,Cookware Set,Home,DEMO-00889,2025-06-15,1,145,PayPal
+C0044,Demo Customer 0044,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-00890,2026-06-24,2,34,Bank transfer
+C0101,Demo Customer 0101,Seattle,P002,Wireless Earbuds,Electronics,DEMO-00891,2025-01-17,1,89,Card
+C0211,Demo Customer 0211,Chicago,P019,Storage Basket,Home,DEMO-00892,2024-10-06,1,41,Card
+C0123,Demo Customer 0123,Chicago,P011,Running Jacket,Apparel,DEMO-00893,2026-06-07,1,98,PayPal
+C0079,Demo Customer 0079,Portland,P015,Insulated Lunch Bag,Outdoor,DEMO-00894,2025-12-11,1,34,Gift card
+C0023,Demo Customer 0023,Portland,P018,Resistance Bands,Fitness,DEMO-00895,2026-05-18,1,22,Bank transfer
+C0241,Demo Customer 0241,Austin,P015,Insulated Lunch Bag,Outdoor,DEMO-00896,2024-06-21,1,34,Card
+C0235,Demo Customer 0235,Chicago,P009,Yoga Mat,Fitness,DEMO-00897,2026-09-11,1,45,Bank transfer
+C0041,Demo Customer 0041,Austin,P006,Linen Shirt,Apparel,DEMO-00898,2025-03-07,1,58,Bank transfer
+C0161,Demo Customer 0161,Austin,P014,Hiking Socks,Outdoor,DEMO-00899,2024-11-08,1,19,Bank transfer
+C0051,Demo Customer 0051,Chicago,P018,Resistance Bands,Fitness,DEMO-00900,2024-03-23,1,22,Gift card
+C0047,Demo Customer 0047,Portland,P009,Yoga Mat,Fitness,DEMO-00901,2024-10-31,1,45,PayPal
+C0098,Demo Customer 0098,Boston,P007,Travel Organizer,Accessories,DEMO-00902,2026-07-03,1,27,Bank transfer
+C0120,Demo Customer 0120,Atlanta,P010,Canvas Backpack,Accessories,DEMO-00903,2025-07-07,1,76,Bank transfer
+C0141,Demo Customer 0141,Seattle,P012,Cookware Set,Home,DEMO-00904,2024-09-04,1,145,Card
+C0212,Demo Customer 0212,Denver,P003,Ceramic Mug,Home,DEMO-00905,2024-06-21,2,18,Card
+C0109,Demo Customer 0109,Seattle,P018,Resistance Bands,Fitness,DEMO-00906,2024-11-10,1,22,Card
+C0052,Demo Customer 0052,Denver,P011,Running Jacket,Apparel,DEMO-00907,2024-09-27,1,98,Card
+C0249,Demo Customer 0249,Austin,P002,Wireless Earbuds,Electronics,DEMO-00908,2026-10-16,1,89,Card
+C0001,Demo Customer 0001,Austin,P009,Yoga Mat,Fitness,DEMO-00909,2025-08-26,1,45,Bank transfer
+C0175,Demo Customer 0175,Portland,P004,Trail Bottle,Outdoor,DEMO-00910,2024-02-26,1,32,PayPal
+C0210,Demo Customer 0210,Boston,P011,Running Jacket,Apparel,DEMO-00911,2025-12-16,1,98,Gift card
+C0123,Demo Customer 0123,Chicago,P009,Yoga Mat,Fitness,DEMO-00912,2025-09-05,2,45,Bank transfer
+C0003,Demo Customer 0003,Chicago,P011,Running Jacket,Apparel,DEMO-00913,2025-10-14,2,98,Gift card
+C0149,Demo Customer 0149,Seattle,P003,Ceramic Mug,Home,DEMO-00914,2026-02-18,2,18,PayPal
+C0163,Demo Customer 0163,Chicago,P006,Linen Shirt,Apparel,DEMO-00915,2025-01-19,1,58,Card
+C0240,Demo Customer 0240,Atlanta,P016,Wireless Charger,Electronics,DEMO-00916,2026-05-31,1,39,Card
+C0003,Demo Customer 0003,Chicago,P016,Wireless Charger,Electronics,DEMO-00917,2024-01-10,1,39,PayPal
+C0133,Demo Customer 0133,Seattle,P020,Packing Cubes,Accessories,DEMO-00918,2026-07-31,1,31,Gift card
+C0064,Demo Customer 0064,Atlanta,P003,Ceramic Mug,Home,DEMO-00919,2026-01-10,2,18,Card
+C0214,Demo Customer 0214,Miami,P003,Ceramic Mug,Home,DEMO-00920,2026-01-27,1,18,PayPal
+C0010,Demo Customer 0010,Boston,P019,Storage Basket,Home,DEMO-00921,2025-01-18,2,41,PayPal
+C0121,Demo Customer 0121,Austin,P002,Wireless Earbuds,Electronics,DEMO-00922,2025-09-09,1,89,Card
+C0207,Demo Customer 0207,Portland,P005,Desk Lamp,Home,DEMO-00923,2025-08-28,1,64,Bank transfer
+C0221,Demo Customer 0221,Seattle,P014,Hiking Socks,Outdoor,DEMO-00924,2026-05-30,1,19,Gift card
+C0024,Demo Customer 0024,Atlanta,P012,Cookware Set,Home,DEMO-00925,2026-02-05,2,145,Gift card
+C0068,Demo Customer 0068,Denver,P016,Wireless Charger,Electronics,DEMO-00926,2025-01-09,1,39,PayPal
+C0087,Demo Customer 0087,Portland,P006,Linen Shirt,Apparel,DEMO-00927,2024-01-09,3,58,PayPal
+C0120,Demo Customer 0120,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00928,2025-03-15,1,32,PayPal
+C0024,Demo Customer 0024,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00929,2026-01-31,1,26,Bank transfer
+C0199,Demo Customer 0199,Portland,P006,Linen Shirt,Apparel,DEMO-00930,2024-12-13,1,58,Bank transfer
+C0177,Demo Customer 0177,Austin,P003,Ceramic Mug,Home,DEMO-00931,2024-08-04,1,18,Bank transfer
+C0065,Demo Customer 0065,Austin,P005,Desk Lamp,Home,DEMO-00932,2024-04-18,1,64,Card
+C0170,Demo Customer 0170,Boston,P003,Ceramic Mug,Home,DEMO-00933,2025-09-10,1,18,PayPal
+C0115,Demo Customer 0115,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-00934,2024-01-05,2,34,Bank transfer
+C0097,Demo Customer 0097,Austin,P015,Insulated Lunch Bag,Outdoor,DEMO-00935,2025-03-17,1,34,Bank transfer
+C0034,Demo Customer 0034,Boston,P014,Hiking Socks,Outdoor,DEMO-00936,2026-02-24,2,19,Gift card
+C0190,Demo Customer 0190,Miami,P010,Canvas Backpack,Accessories,DEMO-00937,2026-05-03,2,76,PayPal
+C0100,Demo Customer 0100,Denver,P018,Resistance Bands,Fitness,DEMO-00938,2026-02-09,1,22,Gift card
+C0081,Demo Customer 0081,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00939,2024-09-24,2,119,Gift card
+C0034,Demo Customer 0034,Boston,P011,Running Jacket,Apparel,DEMO-00940,2026-07-21,2,98,Card
+C0157,Demo Customer 0157,Seattle,P001,Everyday Tote,Accessories,DEMO-00941,2024-11-30,1,38,Bank transfer
+C0010,Demo Customer 0010,Boston,P009,Yoga Mat,Fitness,DEMO-00942,2026-08-25,2,45,Card
+C0107,Demo Customer 0107,Chicago,P001,Everyday Tote,Accessories,DEMO-00943,2024-03-23,1,38,Card
+C0078,Demo Customer 0078,Miami,P001,Everyday Tote,Accessories,DEMO-00944,2025-04-08,1,38,Card
+C0024,Demo Customer 0024,Atlanta,P017,Cotton Hoodie,Apparel,DEMO-00945,2024-08-08,1,72,Card
+C0024,Demo Customer 0024,Atlanta,P015,Insulated Lunch Bag,Outdoor,DEMO-00946,2025-09-05,1,34,Bank transfer
+C0033,Demo Customer 0033,Austin,P015,Insulated Lunch Bag,Outdoor,DEMO-00947,2025-08-10,1,34,Card
+C0192,Demo Customer 0192,Atlanta,P009,Yoga Mat,Fitness,DEMO-00948,2026-02-12,2,45,Gift card
+C0122,Demo Customer 0122,Boston,P020,Packing Cubes,Accessories,DEMO-00949,2025-05-28,2,31,Gift card
+C0124,Demo Customer 0124,Denver,P008,Bluetooth Speaker,Electronics,DEMO-00950,2024-11-25,1,119,Gift card
+C0110,Demo Customer 0110,Miami,P014,Hiking Socks,Outdoor,DEMO-00951,2026-10-12,1,19,Gift card
+C0141,Demo Customer 0141,Seattle,P017,Cotton Hoodie,Apparel,DEMO-00952,2026-02-12,1,72,Bank transfer
+C0130,Demo Customer 0130,Boston,P012,Cookware Set,Home,DEMO-00953,2024-07-23,2,145,PayPal
+C0218,Demo Customer 0218,Boston,P019,Storage Basket,Home,DEMO-00954,2024-10-17,1,41,PayPal
+C0050,Demo Customer 0050,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00955,2025-06-02,1,119,PayPal
+C0208,Demo Customer 0208,Atlanta,P013,Smart Watch Band,Electronics,DEMO-00956,2026-02-05,1,26,PayPal
+C0080,Demo Customer 0080,Atlanta,P012,Cookware Set,Home,DEMO-00957,2024-05-10,1,145,Card
+C0173,Demo Customer 0173,Seattle,P005,Desk Lamp,Home,DEMO-00958,2024-09-08,1,64,Bank transfer
+C0183,Demo Customer 0183,Portland,P017,Cotton Hoodie,Apparel,DEMO-00959,2025-05-05,2,72,Bank transfer
+C0179,Demo Customer 0179,Chicago,P011,Running Jacket,Apparel,DEMO-00960,2025-04-19,2,98,Gift card
+C0027,Demo Customer 0027,Chicago,P007,Travel Organizer,Accessories,DEMO-00961,2025-06-19,1,27,Gift card
+C0221,Demo Customer 0221,Seattle,P003,Ceramic Mug,Home,DEMO-00962,2024-11-30,1,18,Gift card
+C0210,Demo Customer 0210,Boston,P017,Cotton Hoodie,Apparel,DEMO-00963,2026-07-06,1,72,Bank transfer
+C0145,Demo Customer 0145,Austin,P001,Everyday Tote,Accessories,DEMO-00964,2026-01-17,1,38,Gift card
+C0169,Demo Customer 0169,Austin,P013,Smart Watch Band,Electronics,DEMO-00965,2024-05-22,2,26,Gift card
+C0012,Demo Customer 0012,Denver,P002,Wireless Earbuds,Electronics,DEMO-00966,2025-12-23,1,89,Gift card
+C0065,Demo Customer 0065,Austin,P008,Bluetooth Speaker,Electronics,DEMO-00967,2025-02-08,2,119,Bank transfer
+C0081,Demo Customer 0081,Austin,P020,Packing Cubes,Accessories,DEMO-00968,2026-06-12,1,31,Bank transfer
+C0189,Demo Customer 0189,Seattle,P003,Ceramic Mug,Home,DEMO-00969,2025-08-12,1,18,Gift card
+C0033,Demo Customer 0033,Austin,P002,Wireless Earbuds,Electronics,DEMO-00970,2025-04-07,2,89,Gift card
+C0221,Demo Customer 0221,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-00971,2025-05-17,1,119,Card
+C0060,Demo Customer 0060,Denver,P016,Wireless Charger,Electronics,DEMO-00972,2025-04-16,1,39,PayPal
+C0175,Demo Customer 0175,Portland,P017,Cotton Hoodie,Apparel,DEMO-00973,2025-08-27,2,72,Gift card
+C0066,Demo Customer 0066,Boston,P008,Bluetooth Speaker,Electronics,DEMO-00974,2026-04-01,1,119,PayPal
+C0250,Demo Customer 0250,Boston,P005,Desk Lamp,Home,DEMO-00975,2024-05-12,1,64,Gift card
+C0238,Demo Customer 0238,Miami,P004,Trail Bottle,Outdoor,DEMO-00976,2025-03-28,2,32,Gift card
+C0119,Demo Customer 0119,Portland,P003,Ceramic Mug,Home,DEMO-00977,2024-12-30,1,18,Bank transfer
+C0130,Demo Customer 0130,Boston,P016,Wireless Charger,Electronics,DEMO-00978,2025-01-25,1,39,Card
+C0042,Demo Customer 0042,Boston,P017,Cotton Hoodie,Apparel,DEMO-00979,2024-12-01,1,72,Gift card
+C0122,Demo Customer 0122,Boston,P013,Smart Watch Band,Electronics,DEMO-00980,2025-04-06,2,26,Card
+C0144,Demo Customer 0144,Atlanta,P018,Resistance Bands,Fitness,DEMO-00981,2025-01-18,1,22,Card
+C0128,Demo Customer 0128,Atlanta,P019,Storage Basket,Home,DEMO-00982,2026-11-04,2,41,Bank transfer
+C0185,Demo Customer 0185,Austin,P009,Yoga Mat,Fitness,DEMO-00983,2025-11-30,1,45,PayPal
+C0094,Demo Customer 0094,Miami,P017,Cotton Hoodie,Apparel,DEMO-00984,2026-06-17,2,72,Card
+C0144,Demo Customer 0144,Atlanta,P004,Trail Bottle,Outdoor,DEMO-00985,2026-06-26,1,32,PayPal
+C0119,Demo Customer 0119,Portland,P002,Wireless Earbuds,Electronics,DEMO-00986,2025-01-31,2,89,Gift card
+C0223,Demo Customer 0223,Portland,P019,Storage Basket,Home,DEMO-00987,2025-07-07,1,41,PayPal
+C0038,Demo Customer 0038,Miami,P012,Cookware Set,Home,DEMO-00988,2024-09-16,2,145,Card
+C0140,Demo Customer 0140,Denver,P007,Travel Organizer,Accessories,DEMO-00989,2025-03-18,1,27,Card
+C0226,Demo Customer 0226,Boston,P013,Smart Watch Band,Electronics,DEMO-00990,2026-06-10,1,26,Card
+C0025,Demo Customer 0025,Austin,P010,Canvas Backpack,Accessories,DEMO-00991,2024-10-20,1,76,Card
+C0174,Demo Customer 0174,Miami,P016,Wireless Charger,Electronics,DEMO-00992,2025-12-15,1,39,Gift card
+C0115,Demo Customer 0115,Chicago,P016,Wireless Charger,Electronics,DEMO-00993,2025-03-11,1,39,Card
+C0207,Demo Customer 0207,Portland,P020,Packing Cubes,Accessories,DEMO-00994,2025-03-17,2,31,Bank transfer
+C0162,Demo Customer 0162,Boston,P006,Linen Shirt,Apparel,DEMO-00995,2024-11-27,2,58,Card
+C0105,Demo Customer 0105,Austin,P002,Wireless Earbuds,Electronics,DEMO-00996,2024-02-28,2,89,Gift card
+C0027,Demo Customer 0027,Chicago,P013,Smart Watch Band,Electronics,DEMO-00997,2024-12-21,1,26,Gift card
+C0063,Demo Customer 0063,Portland,P002,Wireless Earbuds,Electronics,DEMO-00998,2024-04-28,1,89,Card
+C0190,Demo Customer 0190,Miami,P011,Running Jacket,Apparel,DEMO-00999,2024-01-03,1,98,Bank transfer
+C0085,Demo Customer 0085,Seattle,P003,Ceramic Mug,Home,DEMO-01000,2025-10-14,2,18,Bank transfer
+C0247,Demo Customer 0247,Portland,P004,Trail Bottle,Outdoor,DEMO-01001,2025-11-04,1,32,PayPal
+C0105,Demo Customer 0105,Austin,P002,Wireless Earbuds,Electronics,DEMO-01002,2025-08-02,3,89,Card
+C0158,Demo Customer 0158,Miami,P005,Desk Lamp,Home,DEMO-01003,2026-10-08,1,64,Bank transfer
+C0068,Demo Customer 0068,Denver,P018,Resistance Bands,Fitness,DEMO-01004,2024-12-09,1,22,Bank transfer
+C0243,Demo Customer 0243,Chicago,P002,Wireless Earbuds,Electronics,DEMO-01005,2024-11-04,2,89,Gift card
+C0176,Demo Customer 0176,Atlanta,P018,Resistance Bands,Fitness,DEMO-01006,2024-03-02,1,22,Gift card
+C0116,Demo Customer 0116,Denver,P008,Bluetooth Speaker,Electronics,DEMO-01007,2024-05-20,1,119,Gift card
+C0217,Demo Customer 0217,Austin,P002,Wireless Earbuds,Electronics,DEMO-01008,2024-11-27,1,89,Card
+C0233,Demo Customer 0233,Austin,P010,Canvas Backpack,Accessories,DEMO-01009,2024-03-05,1,76,Card
+C0083,Demo Customer 0083,Chicago,P009,Yoga Mat,Fitness,DEMO-01010,2026-04-25,2,45,PayPal
+C0197,Demo Customer 0197,Seattle,P005,Desk Lamp,Home,DEMO-01011,2025-11-12,1,64,PayPal
+C0179,Demo Customer 0179,Chicago,P008,Bluetooth Speaker,Electronics,DEMO-01012,2025-06-30,1,119,Gift card
+C0106,Demo Customer 0106,Boston,P018,Resistance Bands,Fitness,DEMO-01013,2025-09-23,2,22,Card
+C0087,Demo Customer 0087,Portland,P005,Desk Lamp,Home,DEMO-01014,2024-05-30,2,64,Gift card
+C0089,Demo Customer 0089,Austin,P017,Cotton Hoodie,Apparel,DEMO-01015,2026-02-10,1,72,Gift card
+C0248,Demo Customer 0248,Atlanta,P016,Wireless Charger,Electronics,DEMO-01016,2026-04-15,1,39,Card
+C0212,Demo Customer 0212,Denver,P020,Packing Cubes,Accessories,DEMO-01017,2026-07-08,1,31,Gift card
+C0033,Demo Customer 0033,Austin,P013,Smart Watch Band,Electronics,DEMO-01018,2026-08-03,2,26,Card
+C0011,Demo Customer 0011,Chicago,P018,Resistance Bands,Fitness,DEMO-01019,2025-07-03,1,22,PayPal
+C0195,Demo Customer 0195,Chicago,P018,Resistance Bands,Fitness,DEMO-01020,2025-07-29,3,22,Gift card
+C0055,Demo Customer 0055,Portland,P012,Cookware Set,Home,DEMO-01021,2025-02-15,1,145,PayPal
+C0103,Demo Customer 0103,Portland,P016,Wireless Charger,Electronics,DEMO-01022,2026-08-25,1,39,Card
+C0236,Demo Customer 0236,Denver,P008,Bluetooth Speaker,Electronics,DEMO-01023,2024-07-02,1,119,Gift card
+C0208,Demo Customer 0208,Atlanta,P009,Yoga Mat,Fitness,DEMO-01024,2026-08-03,1,45,Bank transfer
+C0238,Demo Customer 0238,Miami,P015,Insulated Lunch Bag,Outdoor,DEMO-01025,2026-06-18,1,34,PayPal
+C0022,Demo Customer 0022,Miami,P019,Storage Basket,Home,DEMO-01026,2024-11-24,1,41,PayPal
+C0229,Demo Customer 0229,Seattle,P003,Ceramic Mug,Home,DEMO-01027,2024-10-12,1,18,Bank transfer
+C0009,Demo Customer 0009,Austin,P004,Trail Bottle,Outdoor,DEMO-01028,2026-06-13,1,32,Card
+C0114,Demo Customer 0114,Boston,P006,Linen Shirt,Apparel,DEMO-01029,2025-12-31,1,58,Gift card
+C0013,Demo Customer 0013,Seattle,P016,Wireless Charger,Electronics,DEMO-01030,2024-03-19,1,39,Gift card
+C0154,Demo Customer 0154,Boston,P005,Desk Lamp,Home,DEMO-01031,2026-01-17,2,64,PayPal
+C0126,Demo Customer 0126,Miami,P002,Wireless Earbuds,Electronics,DEMO-01032,2024-10-10,2,89,Gift card
+C0134,Demo Customer 0134,Miami,P018,Resistance Bands,Fitness,DEMO-01033,2024-09-09,1,22,Bank transfer
+C0005,Demo Customer 0005,Seattle,P007,Travel Organizer,Accessories,DEMO-01034,2024-06-28,2,27,Card
+C0141,Demo Customer 0141,Seattle,P004,Trail Bottle,Outdoor,DEMO-01035,2025-01-17,2,32,Gift card
+C0063,Demo Customer 0063,Portland,P008,Bluetooth Speaker,Electronics,DEMO-01036,2026-03-01,1,119,Gift card
+C0188,Demo Customer 0188,Denver,P002,Wireless Earbuds,Electronics,DEMO-01037,2025-04-25,1,89,Card
+C0001,Demo Customer 0001,Austin,P013,Smart Watch Band,Electronics,DEMO-01038,2026-10-19,1,26,Card
+C0231,Demo Customer 0231,Portland,P005,Desk Lamp,Home,DEMO-01039,2024-02-18,1,64,PayPal
+C0099,Demo Customer 0099,Chicago,P009,Yoga Mat,Fitness,DEMO-01040,2026-09-16,1,45,PayPal
+C0085,Demo Customer 0085,Seattle,P019,Storage Basket,Home,DEMO-01041,2026-02-12,1,41,Gift card
+C0226,Demo Customer 0226,Boston,P014,Hiking Socks,Outdoor,DEMO-01042,2026-06-02,1,19,Bank transfer
+C0222,Demo Customer 0222,Miami,P004,Trail Bottle,Outdoor,DEMO-01043,2026-02-05,1,32,Gift card
+C0167,Demo Customer 0167,Portland,P018,Resistance Bands,Fitness,DEMO-01044,2025-06-15,1,22,Card
+C0052,Demo Customer 0052,Denver,P008,Bluetooth Speaker,Electronics,DEMO-01045,2024-05-30,1,119,Bank transfer
+C0205,Demo Customer 0205,Seattle,P003,Ceramic Mug,Home,DEMO-01046,2025-02-21,1,18,Gift card
+C0136,Demo Customer 0136,Atlanta,P015,Insulated Lunch Bag,Outdoor,DEMO-01047,2025-06-07,1,34,PayPal
+C0067,Demo Customer 0067,Chicago,P004,Trail Bottle,Outdoor,DEMO-01048,2026-11-15,2,32,Card
+C0108,Demo Customer 0108,Denver,P014,Hiking Socks,Outdoor,DEMO-01049,2025-12-23,1,19,PayPal
+C0153,Demo Customer 0153,Austin,P003,Ceramic Mug,Home,DEMO-01050,2024-06-30,1,18,Card
+C0022,Demo Customer 0022,Miami,P016,Wireless Charger,Electronics,DEMO-01051,2024-01-29,1,39,Bank transfer
+C0066,Demo Customer 0066,Boston,P018,Resistance Bands,Fitness,DEMO-01052,2025-04-17,1,22,Card
+C0061,Demo Customer 0061,Seattle,P019,Storage Basket,Home,DEMO-01053,2025-08-17,1,41,Card
+C0200,Demo Customer 0200,Atlanta,P020,Packing Cubes,Accessories,DEMO-01054,2025-03-29,2,31,Card
+C0193,Demo Customer 0193,Austin,P013,Smart Watch Band,Electronics,DEMO-01055,2024-09-05,1,26,Gift card
+C0086,Demo Customer 0086,Miami,P004,Trail Bottle,Outdoor,DEMO-01056,2026-08-19,1,32,Gift card
+C0232,Demo Customer 0232,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-01057,2024-06-17,2,119,Card
+C0006,Demo Customer 0006,Miami,P004,Trail Bottle,Outdoor,DEMO-01058,2025-12-29,2,32,Card
+C0056,Demo Customer 0056,Atlanta,P006,Linen Shirt,Apparel,DEMO-01059,2024-03-23,1,58,Card
+C0170,Demo Customer 0170,Boston,P013,Smart Watch Band,Electronics,DEMO-01060,2024-04-13,1,26,Card
+C0017,Demo Customer 0017,Austin,P009,Yoga Mat,Fitness,DEMO-01061,2025-10-01,1,45,PayPal
+C0168,Demo Customer 0168,Atlanta,P014,Hiking Socks,Outdoor,DEMO-01062,2026-03-02,1,19,Gift card
+C0209,Demo Customer 0209,Austin,P012,Cookware Set,Home,DEMO-01063,2026-04-20,1,145,Card
+C0147,Demo Customer 0147,Chicago,P014,Hiking Socks,Outdoor,DEMO-01064,2025-12-29,1,19,Gift card
+C0088,Demo Customer 0088,Atlanta,P011,Running Jacket,Apparel,DEMO-01065,2024-12-20,1,98,Bank transfer
+C0201,Demo Customer 0201,Austin,P012,Cookware Set,Home,DEMO-01066,2024-11-12,1,145,Gift card
+C0055,Demo Customer 0055,Portland,P003,Ceramic Mug,Home,DEMO-01067,2026-10-01,1,18,Bank transfer
+C0167,Demo Customer 0167,Portland,P018,Resistance Bands,Fitness,DEMO-01068,2024-02-25,1,22,Card
+C0080,Demo Customer 0080,Atlanta,P012,Cookware Set,Home,DEMO-01069,2025-01-26,1,145,PayPal
+C0051,Demo Customer 0051,Chicago,P017,Cotton Hoodie,Apparel,DEMO-01070,2024-01-14,1,72,Card
+C0120,Demo Customer 0120,Atlanta,P006,Linen Shirt,Apparel,DEMO-01071,2026-05-06,1,58,PayPal
+C0172,Demo Customer 0172,Denver,P010,Canvas Backpack,Accessories,DEMO-01072,2025-10-02,1,76,Gift card
+C0248,Demo Customer 0248,Atlanta,P008,Bluetooth Speaker,Electronics,DEMO-01073,2026-05-29,1,119,Card
+C0006,Demo Customer 0006,Miami,P015,Insulated Lunch Bag,Outdoor,DEMO-01074,2024-05-19,1,34,Gift card
+C0094,Demo Customer 0094,Miami,P010,Canvas Backpack,Accessories,DEMO-01075,2025-02-10,1,76,Bank transfer
+C0211,Demo Customer 0211,Chicago,P003,Ceramic Mug,Home,DEMO-01076,2025-09-12,2,18,Card
+C0171,Demo Customer 0171,Chicago,P014,Hiking Socks,Outdoor,DEMO-01077,2024-10-23,1,19,Card
+C0143,Demo Customer 0143,Portland,P008,Bluetooth Speaker,Electronics,DEMO-01078,2025-06-03,1,119,Gift card
+C0059,Demo Customer 0059,Chicago,P004,Trail Bottle,Outdoor,DEMO-01079,2025-07-12,1,32,PayPal
+C0022,Demo Customer 0022,Miami,P019,Storage Basket,Home,DEMO-01080,2024-10-02,1,41,Bank transfer
+C0150,Demo Customer 0150,Miami,P017,Cotton Hoodie,Apparel,DEMO-01081,2024-10-15,2,72,Card
+C0023,Demo Customer 0023,Portland,P014,Hiking Socks,Outdoor,DEMO-01082,2026-06-13,1,19,Bank transfer
+C0213,Demo Customer 0213,Seattle,P001,Everyday Tote,Accessories,DEMO-01083,2024-03-18,1,38,Gift card
+C0220,Demo Customer 0220,Denver,P013,Smart Watch Band,Electronics,DEMO-01084,2024-11-06,1,26,Card
+C0143,Demo Customer 0143,Portland,P018,Resistance Bands,Fitness,DEMO-01085,2024-04-18,1,22,Card
+C0013,Demo Customer 0013,Seattle,P012,Cookware Set,Home,DEMO-01086,2026-02-10,1,145,PayPal
+C0248,Demo Customer 0248,Atlanta,P017,Cotton Hoodie,Apparel,DEMO-01087,2026-07-02,1,72,PayPal
+C0242,Demo Customer 0242,Boston,P006,Linen Shirt,Apparel,DEMO-01088,2025-10-28,2,58,Gift card
+C0238,Demo Customer 0238,Miami,P011,Running Jacket,Apparel,DEMO-01089,2026-09-28,1,98,Bank transfer
+C0046,Demo Customer 0046,Miami,P020,Packing Cubes,Accessories,DEMO-01090,2026-10-30,2,31,Card
+C0076,Demo Customer 0076,Denver,P006,Linen Shirt,Apparel,DEMO-01091,2026-05-27,1,58,Gift card
+C0216,Demo Customer 0216,Atlanta,P013,Smart Watch Band,Electronics,DEMO-01092,2026-05-22,1,26,Gift card
+C0022,Demo Customer 0022,Miami,P016,Wireless Charger,Electronics,DEMO-01093,2026-09-04,2,39,Bank transfer
+C0183,Demo Customer 0183,Portland,P018,Resistance Bands,Fitness,DEMO-01094,2024-12-17,1,22,Bank transfer
+C0105,Demo Customer 0105,Austin,P012,Cookware Set,Home,DEMO-01095,2026-10-13,2,145,Bank transfer
+C0120,Demo Customer 0120,Atlanta,P002,Wireless Earbuds,Electronics,DEMO-01096,2024-06-23,3,89,Gift card
+C0127,Demo Customer 0127,Portland,P011,Running Jacket,Apparel,DEMO-01097,2024-10-17,1,98,Gift card
+C0169,Demo Customer 0169,Austin,P009,Yoga Mat,Fitness,DEMO-01098,2025-06-20,1,45,Card
+C0123,Demo Customer 0123,Chicago,P020,Packing Cubes,Accessories,DEMO-01099,2026-10-23,1,31,PayPal
+C0136,Demo Customer 0136,Atlanta,P011,Running Jacket,Apparel,DEMO-01100,2025-03-08,1,98,PayPal
+C0117,Demo Customer 0117,Seattle,P020,Packing Cubes,Accessories,DEMO-01101,2025-06-30,1,31,PayPal
+C0225,Demo Customer 0225,Austin,P011,Running Jacket,Apparel,DEMO-01102,2025-07-14,1,98,Card
+C0224,Demo Customer 0224,Atlanta,P019,Storage Basket,Home,DEMO-01103,2025-08-24,1,41,Gift card
+C0162,Demo Customer 0162,Boston,P012,Cookware Set,Home,DEMO-01104,2026-11-11,1,145,Card
+C0243,Demo Customer 0243,Chicago,P015,Insulated Lunch Bag,Outdoor,DEMO-01105,2024-10-11,1,34,Card
+C0097,Demo Customer 0097,Austin,P010,Canvas Backpack,Accessories,DEMO-01106,2024-01-17,2,76,Bank transfer
+C0216,Demo Customer 0216,Atlanta,P014,Hiking Socks,Outdoor,DEMO-01107,2026-08-07,2,19,Bank transfer
+C0036,Demo Customer 0036,Denver,P007,Travel Organizer,Accessories,DEMO-01108,2026-03-16,2,27,Bank transfer
+C0077,Demo Customer 0077,Seattle,P014,Hiking Socks,Outdoor,DEMO-01109,2026-09-03,2,19,Bank transfer
+C0095,Demo Customer 0095,Portland,P012,Cookware Set,Home,DEMO-01110,2025-03-31,2,145,Bank transfer
+C0125,Demo Customer 0125,Seattle,P016,Wireless Charger,Electronics,DEMO-01111,2024-06-19,1,39,Gift card
+C0093,Demo Customer 0093,Seattle,P016,Wireless Charger,Electronics,DEMO-01112,2025-11-01,1,39,Bank transfer
+C0034,Demo Customer 0034,Boston,P005,Desk Lamp,Home,DEMO-01113,2026-02-28,1,64,Gift card
+C0152,Demo Customer 0152,Atlanta,P001,Everyday Tote,Accessories,DEMO-01114,2026-04-24,2,38,Gift card
+C0022,Demo Customer 0022,Miami,P010,Canvas Backpack,Accessories,DEMO-01115,2025-08-21,1,76,PayPal
+C0103,Demo Customer 0103,Portland,P005,Desk Lamp,Home,DEMO-01116,2024-02-29,2,64,Gift card
+C0102,Demo Customer 0102,Miami,P011,Running Jacket,Apparel,DEMO-01117,2024-05-08,1,98,PayPal
+C0151,Demo Customer 0151,Portland,P004,Trail Bottle,Outdoor,DEMO-01118,2026-06-11,1,32,PayPal
+C0110,Demo Customer 0110,Miami,P005,Desk Lamp,Home,DEMO-01119,2024-01-15,1,64,Gift card
+C0132,Demo Customer 0132,Denver,P001,Everyday Tote,Accessories,DEMO-01120,2026-06-12,1,38,Card
+C0240,Demo Customer 0240,Atlanta,P017,Cotton Hoodie,Apparel,DEMO-01121,2025-02-26,1,72,Gift card
+C0052,Demo Customer 0052,Denver,P008,Bluetooth Speaker,Electronics,DEMO-01122,2026-01-25,2,119,Bank transfer
+C0152,Demo Customer 0152,Atlanta,P004,Trail Bottle,Outdoor,DEMO-01123,2025-06-13,1,32,Gift card
+C0024,Demo Customer 0024,Atlanta,P003,Ceramic Mug,Home,DEMO-01124,2026-07-17,1,18,Bank transfer
+C0204,Demo Customer 0204,Denver,P004,Trail Bottle,Outdoor,DEMO-01125,2024-07-14,1,32,Bank transfer
+C0167,Demo Customer 0167,Portland,P002,Wireless Earbuds,Electronics,DEMO-01126,2026-01-17,1,89,Gift card
+C0102,Demo Customer 0102,Miami,P001,Everyday Tote,Accessories,DEMO-01127,2026-01-01,1,38,Card
+C0249,Demo Customer 0249,Austin,P004,Trail Bottle,Outdoor,DEMO-01128,2026-01-10,1,32,Bank transfer
+C0201,Demo Customer 0201,Austin,P018,Resistance Bands,Fitness,DEMO-01129,2024-11-13,1,22,Gift card
+C0025,Demo Customer 0025,Austin,P018,Resistance Bands,Fitness,DEMO-01130,2024-02-27,1,22,Gift card
+C0111,Demo Customer 0111,Portland,P001,Everyday Tote,Accessories,DEMO-01131,2026-10-27,1,38,Card
+C0183,Demo Customer 0183,Portland,P017,Cotton Hoodie,Apparel,DEMO-01132,2024-10-21,1,72,Bank transfer
+C0125,Demo Customer 0125,Seattle,P020,Packing Cubes,Accessories,DEMO-01133,2026-06-13,1,31,Bank transfer
+C0117,Demo Customer 0117,Seattle,P008,Bluetooth Speaker,Electronics,DEMO-01134,2025-08-07,1,119,Card
+C0112,Demo Customer 0112,Atlanta,P010,Canvas Backpack,Accessories,DEMO-01135,2026-06-17,1,76,Gift card
+C0115,Demo Customer 0115,Chicago,P008,Bluetooth Speaker,Electronics,DEMO-01136,2025-04-16,1,119,Card
+C0232,Demo Customer 0232,Atlanta,P003,Ceramic Mug,Home,DEMO-01137,2024-12-09,1,18,Gift card
+C0102,Demo Customer 0102,Miami,P020,Packing Cubes,Accessories,DEMO-01138,2024-11-15,1,31,Gift card
+C0071,Demo Customer 0071,Portland,P019,Storage Basket,Home,DEMO-01139,2025-03-15,1,41,Bank transfer
+C0056,Demo Customer 0056,Atlanta,P019,Storage Basket,Home,DEMO-01140,2024-06-27,1,41,PayPal
+C0155,Demo Customer 0155,Chicago,P016,Wireless Charger,Electronics,DEMO-01141,2026-11-07,2,39,PayPal
+C0042,Demo Customer 0042,Boston,P013,Smart Watch Band,Electronics,DEMO-01142,2025-01-05,1,26,PayPal
+C0217,Demo Customer 0217,Austin,P001,Everyday Tote,Accessories,DEMO-01143,2025-01-19,1,38,Gift card
+C0129,Demo Customer 0129,Austin,P016,Wireless Charger,Electronics,DEMO-01144,2025-10-26,2,39,Card
+C0052,Demo Customer 0052,Denver,P008,Bluetooth Speaker,Electronics,DEMO-01145,2025-09-03,1,119,Gift card
+C0159,Demo Customer 0159,Portland,P001,Everyday Tote,Accessories,DEMO-01146,2024-03-19,1,38,Card
+C0044,Demo Customer 0044,Denver,P003,Ceramic Mug,Home,DEMO-01147,2025-09-11,1,18,PayPal
+C0023,Demo Customer 0023,Portland,P007,Travel Organizer,Accessories,DEMO-01148,2025-02-16,1,27,PayPal
+C0004,Demo Customer 0004,Denver,P011,Running Jacket,Apparel,DEMO-01149,2025-05-11,1,98,Gift card
+C0146,Demo Customer 0146,Boston,P011,Running Jacket,Apparel,DEMO-01150,2024-04-12,1,98,PayPal
+C0223,Demo Customer 0223,Portland,P016,Wireless Charger,Electronics,DEMO-01151,2025-10-13,1,39,Gift card
+C0117,Demo Customer 0117,Seattle,P012,Cookware Set,Home,DEMO-01152,2025-07-09,1,145,Gift card
+C0078,Demo Customer 0078,Miami,P012,Cookware Set,Home,DEMO-01153,2025-10-29,1,145,Bank transfer
+C0226,Demo Customer 0226,Boston,P020,Packing Cubes,Accessories,DEMO-01154,2026-09-17,1,31,Card
+C0247,Demo Customer 0247,Portland,P007,Travel Organizer,Accessories,DEMO-01155,2025-11-28,1,27,Gift card
+C0071,Demo Customer 0071,Portland,P020,Packing Cubes,Accessories,DEMO-01156,2024-04-04,1,31,Card
+C0017,Demo Customer 0017,Austin,P001,Everyday Tote,Accessories,DEMO-01157,2024-01-24,1,38,Bank transfer
+C0101,Demo Customer 0101,Seattle,P019,Storage Basket,Home,DEMO-01158,2024-12-27,2,41,PayPal
+C0120,Demo Customer 0120,Atlanta,P001,Everyday Tote,Accessories,DEMO-01159,2026-01-17,1,38,Bank transfer
+C0082,Demo Customer 0082,Boston,P015,Insulated Lunch Bag,Outdoor,DEMO-01160,2025-11-10,1,34,Gift card
+C0139,Demo Customer 0139,Chicago,P004,Trail Bottle,Outdoor,DEMO-01161,2024-02-14,1,32,Card
+C0052,Demo Customer 0052,Denver,P008,Bluetooth Speaker,Electronics,DEMO-01162,2026-04-08,2,119,Card
+C0237,Demo Customer 0237,Seattle,P004,Trail Bottle,Outdoor,DEMO-01163,2026-09-17,2,32,Bank transfer
+C0211,Demo Customer 0211,Chicago,P008,Bluetooth Speaker,Electronics,DEMO-01164,2025-04-13,1,119,Bank transfer
+C0135,Demo Customer 0135,Portland,P001,Everyday Tote,Accessories,DEMO-01165,2024-01-11,2,38,Bank transfer
+C0023,Demo Customer 0023,Portland,P016,Wireless Charger,Electronics,DEMO-01166,2025-06-28,1,39,Gift card
+C0033,Demo Customer 0033,Austin,P007,Travel Organizer,Accessories,DEMO-01167,2026-08-17,2,27,PayPal
+C0136,Demo Customer 0136,Atlanta,P016,Wireless Charger,Electronics,DEMO-01168,2026-05-26,1,39,Card
+C0247,Demo Customer 0247,Portland,P003,Ceramic Mug,Home,DEMO-01169,2024-10-16,1,18,PayPal
+C0108,Demo Customer 0108,Denver,P014,Hiking Socks,Outdoor,DEMO-01170,2026-09-01,1,19,Card
+C0167,Demo Customer 0167,Portland,P018,Resistance Bands,Fitness,DEMO-01171,2026-01-08,1,22,Bank transfer
+C0198,Demo Customer 0198,Miami,P002,Wireless Earbuds,Electronics,DEMO-01172,2024-02-28,1,89,PayPal
+C0021,Demo Customer 0021,Seattle,P015,Insulated Lunch Bag,Outdoor,DEMO-01173,2025-04-01,2,34,Bank transfer
+C0198,Demo Customer 0198,Miami,P005,Desk Lamp,Home,DEMO-01174,2024-06-22,2,64,PayPal
+C0205,Demo Customer 0205,Seattle,P014,Hiking Socks,Outdoor,DEMO-01175,2025-09-14,3,19,Gift card
+C0230,Demo Customer 0230,Miami,P019,Storage Basket,Home,DEMO-01176,2024-03-02,2,41,Card
+C0181,Demo Customer 0181,Seattle,P005,Desk Lamp,Home,DEMO-01177,2025-05-02,1,64,PayPal
+C0068,Demo Customer 0068,Denver,P010,Canvas Backpack,Accessories,DEMO-01178,2026-06-16,1,76,Bank transfer
+C0201,Demo Customer 0201,Austin,P013,Smart Watch Band,Electronics,DEMO-01179,2025-10-06,1,26,Card
+C0048,Demo Customer 0048,Atlanta,P003,Ceramic Mug,Home,DEMO-01180,2024-04-23,1,18,Card
+C0005,Demo Customer 0005,Seattle,P007,Travel Organizer,Accessories,DEMO-01181,2024-02-17,1,27,Gift card
+C0127,Demo Customer 0127,Portland,P005,Desk Lamp,Home,DEMO-01182,2025-10-13,1,64,PayPal
+C0180,Demo Customer 0180,Denver,P015,Insulated Lunch Bag,Outdoor,DEMO-01183,2024-09-23,1,34,Bank transfer
+C0178,Demo Customer 0178,Boston,P007,Travel Organizer,Accessories,DEMO-01184,2024-07-20,2,27,Card
+C0069,Demo Customer 0069,Seattle,P018,Resistance Bands,Fitness,DEMO-01185,2024-08-07,2,22,Bank transfer
+C0224,Demo Customer 0224,Atlanta,P016,Wireless Charger,Electronics,DEMO-01186,2025-04-29,1,39,Bank transfer
+C0020,Demo Customer 0020,Denver,P016,Wireless Charger,Electronics,DEMO-01187,2024-02-28,1,39,Gift card
+C0239,Demo Customer 0239,Portland,P012,Cookware Set,Home,DEMO-01188,2026-08-05,1,145,PayPal
+C0119,Demo Customer 0119,Portland,P009,Yoga Mat,Fitness,DEMO-01189,2024-08-14,1,45,Bank transfer
+C0030,Demo Customer 0030,Miami,P020,Packing Cubes,Accessories,DEMO-01190,2025-06-04,1,31,Card
+C0186,Demo Customer 0186,Boston,P001,Everyday Tote,Accessories,DEMO-01191,2026-04-20,1,38,Card
+C0196,Demo Customer 0196,Denver,P007,Travel Organizer,Accessories,DEMO-01192,2025-05-31,1,27,Bank transfer
+C0074,Demo Customer 0074,Boston,P009,Yoga Mat,Fitness,DEMO-01193,2024-08-26,2,45,Bank transfer
+C0140,Demo Customer 0140,Denver,P016,Wireless Charger,Electronics,DEMO-01194,2024-04-24,3,39,Gift card
+C0158,Demo Customer 0158,Miami,P019,Storage Basket,Home,DEMO-01195,2025-07-21,3,41,PayPal
+C0186,Demo Customer 0186,Boston,P018,Resistance Bands,Fitness,DEMO-01196,2025-11-27,1,22,Card
+C0027,Demo Customer 0027,Chicago,P003,Ceramic Mug,Home,DEMO-01197,2024-10-18,1,18,Gift card
+C0137,Demo Customer 0137,Austin,P007,Travel Organizer,Accessories,DEMO-01198,2025-09-09,1,27,Bank transfer
+C0158,Demo Customer 0158,Miami,P005,Desk Lamp,Home,DEMO-01199,2025-06-06,1,64,PayPal
+C0045,Demo Customer 0045,Seattle,P013,Smart Watch Band,Electronics,DEMO-01200,2025-04-23,2,26,Bank transfer
